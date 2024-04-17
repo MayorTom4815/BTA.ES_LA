@@ -1,0 +1,230 @@
+gui.done=Hecho
+gui.cancel=Cancelar
+gui.toMenu=Volver al Título
+gui.up=Arriba
+gui.down=Abajo
+gui.yes=Sí
+gui.no=No
+gui.ok=Vale
+
+menu.singleplayer=Un Jugador
+menu.multiplayer=Multijugador
+menu.multiplayer.disabled=Multijugador (¡No está listo todavía!)
+menu.mods=Paquetes de Texturas
+menu.options=Opciones...
+menu.quit=Salir del Juego
+menu.saveAndQuit=Guardar y Volver al Título
+
+gui.photomode.help_text=Haz click y arrastra para mover y rotar.
+
+selectWorld.title=Seleccionar Mundo
+selectWorld.empty=Vacío
+selectWorld.world=Mundo
+selectWorld.moreWorldOptions=Más Opciones de Mundo
+selectWorld.select=Jugar al Mundo Seleccionado
+selectWorld.create=Crear un Nuevo Mundo
+selectWorld.createDemo=Juega al Mundo Demo
+selectWorld.delete=Borrar
+selectWorld.rename=Renombrar
+selectWorld.deleteQuestion=¿Seguro que quieres borrar este mundo?
+selectWorld.deleteWarning=¡Se perderá para siempre! (¡Mucho tiempo!)
+selectWorld.deleteButton=Borrar
+selectWorld.renameButton=Renombrar
+selectWorld.renameTitle=Renombrar Mundo
+selectWorld.conversion=¡Requiere Conversión!
+selectWorld.outdated=Obsoleto - no se puede cargar (¡Todavía!)
+selectWorld.newWorld=Nuevo Mundo
+selectWorld.enterName=Nombre del Mundo
+selectWorld.gamemode=Modo:
+selectWorld.cheats=Trucos:
+selectWorld.worldType=Tipo de Mundo:
+selectWorld.worldTypeTitle=Selecciona el Tipo de Mundo
+selectWorld.enterSeed=Semilla
+selectWorld.deleteTitle=Borrar Mundo
+
+level.generating=Generando Mundo
+level.loading=Cargando Mundo. Ya queda poco...
+
+controller.noControllerSelected=¡No se ha seleccionado un mando!
+controller.back=Atrás
+controller.help1=Si no hay ningun mando conectado, asegúrate de que
+controller.help2=inicias el juego con el mando conectado.
+
+selectServer.title=Multijugador
+selectServer.connect=Unirse a Servidor
+selectServer.ip=Conexión Directa
+selectServer.add=Añadir Servidor
+selectServer.delete=Borrar
+selectServer.refresh=Refrescar
+selectServer.edit=Editar
+selectServer.renameServer=Renombrar Servidor
+selectServer.serverName=Nombre del Servidor
+selectServer.serverIp=Dirección IP
+selectServer.deleteQuestion=¿Seguro/a que quieres quitar este servidor?
+selectServer.deleteWarning=¡Se perderá para siempre! (¡Mucho tiempo!)
+
+addServer.title=Añadir Servidor
+addServer.serverName=Nombre del Servidor
+addServer.ipAddress=Dirección IP
+addServer.save=Guardar
+
+dimension.overworld.name=el Overworld
+dimension.hell.name=Nether
+dimension.paradise.name=Paraíso
+
+season.overworld.spring.name=Primavera
+season.overworld.summer.name=Verano
+season.overworld.fall.name=Otoño
+season.overworld.winter.name=Invierno
+season.overworld.hell.name=Infierno
+season.overworld.winter.endless.name=Invierno Eterno
+season.paradise.gold.name=Oro
+season.paradise.silver.name=Plata
+season.null.name=Sin Estación
+
+weather.overworld.clear.name=Despejado
+weather.overworld.clear.hell.name=Infierno Despejado
+weather.overworld.clear.woods.name=Arboleada Despejada
+weather.overworld.rain.name=Lloviendo
+weather.overworld.snow.name=Nevando
+weather.overworld.winter.snow.name=Nevando
+weather.overworld.storm.name=Tormenta
+weather.overworld.fog.name=Nublado
+
+gamemode.survival.name=Supervivencia
+gamemode.creative.name=Creativo
+
+worldType.overworld.extended.name=Por Defecto Extendido
+worldType.overworld.extended.desc=La experiencia por defecto para \nBTA, con biomas más grandes y mundos \n veces más altos.
+worldType.overworld.default.name=Por Defecto
+worldType.overworld.default.desc=Una experiencia más vanilla.
+worldType.nether.default.name=Por Defecto
+worldType.paradise.default.name=Por Defecto
+worldType.flat.name=Plano
+worldType.flat.desc=Un terreno infinito plano hecho de \n hierba.
+worldType.overworld.floating.name=Islas Flotantes
+worldType.overworld.floating.desc=Una colección de \n islas flotantes altísimas para explorar.
+worldType.overworld.amplified.name=Amplificado
+worldType.overworld.amplified.desc=Similar al "Por Defecto", pero permite que \n terreno se genere hasta 256\nbloques
+worldType.overworld.retro.name=Retro
+worldType.overworld.retro.desc=La generación de terreno más similar a la versión Alpha\n1.1.2_01 de Minecraft.
+worldType.overworld.islands.name=Islas
+worldType.overworld.islands.desc=El nivel del mar ha sido elevado,\nconvirtiendo el mundo en una seria\nde islas con vastos océanos\nentre ellas.
+worldType.overworld.winter.name=Invierno Eterno
+worldType.overworld.winter.desc=Similar al "Por Defecto" pero la nieve\nnunca deja de salir.
+worldType.overworld.hell.name=Infoerno
+worldType.overworld.hell.desc=Este mundo ha muerto hace tiempo, intenta sobrevivir\nsi puedes.
+worldType.overworld.woods.name=Arboleada
+worldType.overworld.woods.desc=Un mundo lleno de arboleadas gigantescas.
+worldType.overworld.paradise.name=Paraíso
+worldType.overworld.paradise.desc=Un mundo con sol eterno y un\n verano eterno.
+worldType.empty.name=Vacío
+worldType.empty.desc=No hay nada, excepto un solo\nbloque de piedra madre.
+worldType.debug.name=Debug
+worldType.debug.desc=Genera cada dato de \ncada bloque del juego(para\ntestear.)
+worldType.overworld.inland.name=Sin Océano
+worldType.overworld.inland.desc=Similar al "Por Defecto Extendido",\npero sin océanos.
+worldType.overworld.classic.name=Clásico
+worldType.overworld.classic.desc=Generación de terrano similar a\n"Clásico", pero infinito.
+
+multiplayer.title=Conectar a dirección IP
+multiplayer.connect=Conectar
+multiplayer.info1=
+multiplayer.info2=
+multiplayer.ipinfo=Escribe la dirección IP del servidor para conectarte a este:
+
+multiplayer.downloadingTerrain=Descargando Terreno
+
+multiplayer.stopSleeping=Salir de la Cama
+
+demo.day.1=Esta demo durará cinco días in-game, haz lo mejor que puedas!
+demo.day.2=Día Dos
+demo.day.3=Día Tres
+demo.day.4=Día Cuatro
+demo.day.5=Día Cinco
+demo.day.warning=¡Tu tiempo está a punto de agotarse!
+demo.day.6=Has pasado el día cinco, presiona el F2 para hacer una captura de pantalla y capturar este momento para siempre.
+demo.reminder=El tiempo de demo ha acabado. ¡Compra el juego para continuar el mundo o empieza uno nuevo!
+demo.help.movement=Usa %1$s, %2$s, %3$s, %4$s y el ratón para mirar y moverte alrededor.
+demo.help.jump=Salta al presionar %1$s
+demo.help.inventory=Presiona %1$s para abrir tu inventario
+
+connect.connecting=Conectando al servidor...
+connect.authorizing=Entrando...
+connect.failed=Hubo un error al conectarse al servidor
+
+disconnect.genericReason=%s
+disconnect.disconnected=Desconectado por el Servidor
+disconnect.lost=Conexión Perdida
+disconnect.kicked=Fue expulsado de la partida
+disconnect.timeout=Timed out
+disconnect.closed=Conexión Cerrada
+disconnect.loginFailed=Fallo al Entrar
+disconnect.loginFailedInfo=Fallo al Entrar: %s
+disconnect.quitting=Saliendo
+disconnect.endOfStream=Se acabó el stream
+disconnect.overflow=Buffer overflow
+
+damagetype.combat=Combate
+damagetype.projectile=Proyectil
+damagetype.blast=Explosión
+damagetype.fall=Caída
+damagetype.fire=Fuego
+
+controls.title=Controles
+keybinds.title=Teclas
+keybinds.info=Presiona Escape para deshabilitar las teclas
+
+texturePack.openFolder=Abrir la carpeta de Packs de Texturas
+texturePack.title=Selecciona el Pack de Texturas
+texturePack.folderInfo=(Coloca los Packs de Texturas Aquí)
+
+bed.occupied=This bed is occupied
+bed.noSleep=You can only sleep at night or during thunderstorms
+bed.setSpawn=Respawn point set
+bed.notValid=Your home bed was missing or obstructed
+
+sign.image.none=None
+sign.image.arrow_right=Right Arrow
+sign.image.arrow_left=Left Arrow
+sign.image.arrow_down=Down Arrow
+sign.image.arrow_up=Up Arrow
+sign.image.caution=Caution
+sign.image.mobs=Mobs
+sign.image.trees=Trees
+sign.image.chest=Chest
+sign.image.pickaxe=Pickaxe
+sign.image.wolf=Wolf
+sign.image.sword=Sword
+sign.image.hoe=Hoe
+sign.image.axe=Axe
+sign.image.shovel=Shovel
+sign.image.bowl=Bowl
+sign.image.tnt=TNT
+sign.image.mob_farm=Mob Farm
+sign.image.mine=Mine
+sign.image.redstone=Redstone
+sign.image.farm=Farm
+sign.image.barricade=Barricade
+sign.image.question_mark=Question Mark
+sign.image.face_smile=Smiley Face
+sign.image.face_sad=Sad Face
+sign.image.face_crying=Crying Face
+sign.image.face_gasp=Gasping Face
+sign.image.face_thinking=Thinking Face
+sign.image.face_confused=Confused Face
+sign.image.big_sign=Big Sign
+sign.image.mob_zombie=Zombie
+sign.image.mob_skeleton=Skeleton
+sign.image.mob_creeper=Creeper
+sign.image.one_player=One Player
+sign.image.two_players=Two Players
+sign.image.three_players=Three Players
+sign.image.cross=Cross
+sign.image.craft=Craft
+sign.image.afk=AFK
+sign.image.brb=BRB
+
+flag.full=Tienes demasiadas banderas en este mapa.
+flag.overwrite=No se puede sobreescribir el patrón actual.
+flag.copied=Patrón de bandera copiado.

@@ -1,0 +1,63 @@
+guidebook.section.cover=¡Mejor que una aventura!
+guidebook.section.index=Indice
+guidebook.section.mob=Criaturas
+guidebook.section.crafting=Fabricaciones
+guidebook.section.furnace=Fundicion
+guidebook.section.blast_furnace=Fundicion por explocion
+guidebook.section.trommel=Reciclar
+guidebook.section.search=Buscar
+
+guidebook.section.mob.health=Vida:
+guidebook.section.mob.score=Puntuaje: %s
+guidebook.section.mob.damage=Daño: %s
+guidebook.section.mob.drops=Suelta:
+
+guidebook.section.mob.undiscovered=Esta criatura aun no ha sido descubierta.
+
+guidebook.section.mob.pig.name=Cerdo
+guidebook.section.mob.pig.desc=Es una fuente importante de comida, y aparace de manera salvaje.\nPuedes encontrarlo en varios biomas.
+
+guidebook.section.mob.sheep.name=Oveja
+guidebook.section.mob.sheep.desc=Preveedor de lana, esencial para muchas cosas.\nPuedes encontrarlo en varios biomas.
+
+guidebook.section.mob.cow.name=Vaca
+guidebook.section.mob.cow.desc=Es un proveedor muy util de cuero, que puede usar para crearte una armadura.\nPuedes encontrarlo en varios biomas.
+
+guidebook.section.mob.chicken.name=Gallina
+guidebook.section.mob.chicken.desc=Una fuente de plumas, que puedes usar para crear flechas.\nPuedes encontrarlo en varios biomas.
+
+guidebook.section.mob.squid.name=Calamar
+guidebook.section.mob.squid.desc=Una fuente de tinta negra, que puedes usarlo para dibujar o colorear cosas.\nPuedes encontrarlo en oceanos y lagos.
+
+guidebook.section.mob.wolf.name=Lobo
+guidebook.section.mob.wolf.desc=Es un mob neutral que pueden ser domesticado usando huesos.\nPuedes encontrarlos en biomas frios, taigas y bosques borales.
+
+guidebook.section.mob.firefly_cluster.name=Luciérnagas
+guidebook.section.mob.firefly_cluster.desc=Aparecen durante la noche, y puedes atraparlas en frascos para hacer linternas.\nPuedes encontrarlas en varios biomas.
+
+guidebook.section.mob.zombie.name=Zombi
+guidebook.section.mob.zombie.desc=El enemigo mas comun en la noche y en la obscuridad.\nGolpea muy fuerte, asi que ¡ten cuidado!.
+
+guidebook.section.mob.creeper.name=Creeper
+guidebook.section.mob.creeper.desc=Es la criatura mas infame y explota cuando esta cerca tuyo.\nAparecen en la noche y obscuridad.
+
+guidebook.section.mob.skeleton.name=Esqueleto
+guidebook.section.mob.skeleton.desc=Skeletons provide ranged support for other creatures, and can be dangerous - finding cover is recommended. They appear at night and in darkness.
+
+guidebook.section.mob.spider.name=Araña
+guidebook.section.mob.spider.desc=Grande, rapida, y sabe trepar paredes.\nEs uno de los enemigos mas comunes que aparecen en la noche y en la obscuridad.
+
+guidebook.section.mob.slime.name=Slime
+guidebook.section.mob.slime.desc=Aparece en lo mas profundo del mundo, y puede ser peligroso si hay demasiados.\nSon capaces de dividirce en varios Slimes mas pequeños.
+
+guidebook.section.mob.ghast.name=Fantasma
+guidebook.section.mob.ghast.desc=Es grande y flota, si te ve, te escupira una bola de fuego en tu direccion.\nPuedes encontrarlo en el infierno.
+
+guidebook.section.mob.zombie_pigman.name=Hombrecerdo zombi
+guidebook.section.mob.zombie_pigman.desc=Es el enemigo mas comun en el Infierno.\nEs neutral hasta que es provocado.
+
+guidebook.section.mob.snowman.name=Hombre de nieve
+guidebook.section.mob.snowman.desc=Es un tipo de zombi solo aparece en el punto mas frio del mundo, y usa bolas de nieve para eliminar a sus enemigos.
+
+guidebook.section.mob.armored_zombie.name=Zombi blindado
+guidebook.section.mob.armored_zombie.desc=Variante del zombie regular, que viste cuero de malla y ocasionalmente va armado con una espada.

@@ -1,0 +1,95 @@
+gui.achievements=Logros
+gui.stats=Estadísticas
+
+stat.generalButton=General
+stat.blocksButton=Bloques
+stat.itemsButton=Objetos
+
+stat.used=Veces Usados
+stat.mined=Veces Minado
+stat.depleted=Objetos Rotos
+stat.crafted=Objetos fabricados
+
+stat.startGame=Veces Jugadas
+stat.createWorld=Mundos Jugados
+stat.loadWorld=Veces Guardadas
+stat.joinMultiplayer=Veces Entradas en un Servidor
+stat.leaveGame=Veces Salidas
+
+stat.playOneMinute=Minutos Jugados
+
+stat.walkOneCm=Distancia a pie
+stat.fallOneCm=Distancia en caída
+stat.swimOneCm=Distancia nadando
+stat.flyOneCm=Distancia en vuelo
+stat.climbOneCm=Distancia Trepada
+stat.diveOneCm=Distancia en buceo
+stat.minecartOneCm=Distancia en Vagoneta
+stat.boatOneCm=Distancia en Bote
+stat.pigOneCm=Distancia en Cerdo
+stat.jump=Saltos
+stat.drop=Objetos Soltados
+
+stat.damageDealt=Daño Hecho
+stat.damageTaken=Daño Recibido
+stat.deaths=Número de Muertes
+stat.mobKills=Muertes de Mobs
+stat.playerKills=Jugadores Asesinados
+stat.fishCaught=Peces Pescados
+
+stat.mineBlock=%1$s Minados
+stat.craftItem=%1$s Crafteados
+stat.useItem=%1$s Usados
+stat.breakItem=%1$s Rotos
+
+achievement.get=Progreso Realizado!
+
+achievement.taken=Hecho!
+
+achievement.requires=Requiere '%1$s'
+achievement.openInventory=Haciendo el Inventario
+achievement.openInventory.desc=Presiona '%1$s' para abrir el inventario
+achievement.mineWood=Consigue Madera
+achievement.mineWood.desc=Golpea un árbol hasta que suelte su tronco
+achievement.buildWorkBench=MINECRAFT!
+achievement.buildWorkBench.desc=Crea una Mesa de Trabajo con cuatro tablones de madera
+achievement.buildPickaxe=A minar!
+achievement.buildPickaxe.desc=Usa tablones y palitos para hacer un pico
+achievement.buildFurnace=Está que arde!
+achievement.buildFurnace.desc=Construye un horno compuesto por 8 bloques de roca
+achievement.acquireIron=Forjando un nuevo estilo
+achievement.acquireIron.desc=Funde hierro crudo para hacer un lingote de hierro
+achievement.buildHoe=Hora de cultivar!
+achievement.buildHoe.desc=Usa tablones y palitos para hacer una azada
+achievement.makeBread=Panadero Estrella
+achievement.makeBread.desc=Utiliza algo de trigo para hacer pan
+achievement.bakeCake=El pastel es una farsa!
+achievement.bakeCake.desc=Harina, azucar, leche y huevos!
+achievement.buildBetterPickaxe=Mejorando herramientas
+achievement.buildBetterPickaxe.desc=Crea un mejor pico
+achievement.cookFish=En el mar la vida es más sabrosa
+achievement.cookFish.desc=Pesca un pez y cocinalo
+achievement.onARail=Vida en la vía
+achievement.onARail.desc=Viaja en vagoneta al menos 1km desde donde comenzaste 
+achievement.buildSword=Hora de pelear!
+achievement.buildSword.desc=Usa tablones y palitos para hacer una espada
+achievement.killEnemy=Cazamonstruos
+achievement.killEnemy.desc=Ataca y derrota a un monstruo
+achievement.killCow=Peletero
+achievement.killCow.desc=Consigue algo de cuero
+achievement.flyPig=Cuando los cerdos vuelan
+achievement.flyPig.desc=Tira un cerdo por un precipicio mientras estas montado sobre él
+achievement.getSensed=Yo espío con mi ojito
+achievement.getSensed.desc=Haz que te detecte un sensor de Movimiento
+achievement.craftHandCannon=Shooter en Primera Persona
+achievement.craftHandCannon.desc=Construye un cañón de mano
+achievement.collectStone=Napolitano (No el helado)
+achievement.collectStone.desc=Consigue todos los tipos de piedra
+achievement.crushBlocks=Rompiendo el hielo
+achievement.crushBlocks.desc=Consigue hielo aplastandolo contra un bloque de obsidiana
+achievement.repairArmor=Casi como nuevo
+achievement.repairArmor.desc=Repara una pieza de armadura de cota de malla
+achievement.getChainmail=Encadenado
+achievement.getChainmail.desc=Colocate una armadura de cota de malla completa
+achievement.openGuidebook=La Receta del éxito
+achievement.openGuidebook.desc=Presiona '%1$s' para abrir el libro de guía

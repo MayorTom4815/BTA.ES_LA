@@ -1,0 +1,28 @@
+Preciona %key.guidebook para abrir la guia de fabricacion.
+Los portales pueden ser tan grandes (o chicos) como nesesites.
+El Tromel te permite convertir la tierra en recursos utilies.
+Las cerezas solo crecen en primavera.
+Las botas de cuero mantienen seguros a tus cultivos de los pisoteos.
+Las estaciones cambian cada 7 dias.
+Los objetos caen a través de los bloques de malla.
+Los altos hornos funden más rápido que los normales.
+Presiona %key.fly para volar en creativo
+El moho se esparce en bloques cercanos. ¡Ve a ver como crece!
+Usa %key.fly + scroll arriba o abajo, para cambiar la velocidad de vuelo en creativo.
+¿Cansado de ver el pasto crecer?, usa el polvo de huesos.
+¡Las camas nesecitan mantas!, usa la tela para crearlas.
+Los carcaj proporcionan una manera conveniente de almacenar muchas flechas.
+La Olivina es un sustituto decente para el carbon del infierno.
+La arena de las profundidades es rica en minerales.
+¡Hay 4 tipos de piedra!, escoje tu favorita.
+¿Quieres un poco de color en tu vida?, ¡pinta los tablones de madera!
+Presiona %key.hotbar.switch para cambiar la barra de acceso rapido.
+Usa una brujula para saber tus coordenadas.
+Usa un reloj para saber la hora del dia.
+Usa un calendario rotatorio para saber la estacion.
+Los laberintos contienen tesorors raros y facinantes.
+Usa %key.interact mientras sostienenes una bandera para copiar el patron de otra.
+¡Puedes teñir los carteles!.
+Se pueden colocar guijarros en el suelo para hacer un bonito camino.
+Puedes usar las etiquetas para renombrar mobs e items.
+Presiona LCTRL mietras sostienes un item para ver su descripcion.

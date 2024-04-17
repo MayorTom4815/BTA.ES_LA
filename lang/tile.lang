@@ -1,0 +1,897 @@
+tile.stone.name=Piedra
+tile.stone.desc=Un bloque de piedra sólida.
+tile.basalt.name=Basalto
+tile.basalt.desc=Un bloque de basalto sólido.
+tile.limestone.name=Piedra Caliza
+tile.limestone.desc=Un bloque de piedra caliza sólida.
+tile.granite.name=Granito
+tile.granite.desc=Un bloque de granito sólido.
+tile.marble.name=Bloque de Mármol
+tile.marble.desc=Un bloque de mármol sólido.
+tile.slate.name=Pizarra
+tile.slate.desc=Un bloque de pizarra sólida.
+tile.permafrost.name=Permafrost
+tile.permafrost.desc=Un bloque de permafrost sólido. ¡MUY Frío!
+
+tile.cobble.stone.name=Roca
+tile.cobble.stone.desc=Piedra, hecha añicos y reconstruida.
+tile.cobble.stone.mossy.name=Roca Musgosa
+tile.cobble.stone.mossy.desc=Roca con un toque de musgo.
+tile.cobble.basalt.name=Basalto Labrado
+tile.cobble.basalt.desc=Basalto, hecho añicos y reconstruido.
+tile.cobble.limestone.name=Caliza Labrada
+tile.cobble.limestone.desc=Caliza, hecha añicos y reconstruida.
+tile.cobble.granite.name=Granito Labrado
+tile.cobble.granite.desc=Granito, hecho añicos y reconstruido.
+tile.cobble.permafrost.name=Permafrost Labrado
+tile.cobble.permafrost.desc=Permafrost, roto a pedazos y reconstruido. Sigue muy frío.
+
+tile.pillar.marble.name=Pilar de Mármol
+tile.pillar.marble.desc=Un bloque de mármol con forma de un pilar.
+tile.capstone.marble.name=Mármol Grabado
+tile.capstone.marble.desc=Un bloque de mármol con un grabado muy interesante.
+
+tile.sandstone.name=Arenisca
+tile.sandstone.desc=Un bloque de arena pero compactada.
+
+tile.stone.carved.name=Piedra Tallada
+tile.stone.carved.desc=Piedra pulida con lineas verticales talladas por el medio.
+tile.granite.carved.name=Granito Tallado
+tile.granite.carved.desc=Granito pulida con lineas verticales talladas por el medio.
+tile.limestone.carved.name=Caliza Tallada
+tile.limestone.carved.desc=Caliza pulida con lineas verticales talladas por el medio.
+tile.basalt.carved.name=Basalto Tallado
+tile.basalt.carved.desc=Basalto pulido con lineas verticales talladas por el medio.
+
+tile.planks.oak.name=Tablones de Madera
+tile.planks.oak.desc=Tablones procesadas del cuerpo de los árboles.
+tile.planks.oak.painted.name=Tablones Misteriosos
+tile.planks.oak.painted.desc=Pregunta seria, ¡¿De DÓNDE has sacado esto?!
+tile.planks.oak.painted.black.name=Tablones de Madera Negros
+tile.planks.oak.painted.black.desc=Tablones de madera pintados de color negro.
+tile.planks.oak.painted.red.name=Tablones de Madera Rojos
+tile.planks.oak.painted.red.desc=Tablones de madera pintados de color rojo.
+tile.planks.oak.painted.green.name=Tablones de Madera Verdes
+tile.planks.oak.painted.green.desc=Tablones de madera pintados de color verde.
+tile.planks.oak.painted.brown.name=Tablones de Madera Café
+tile.planks.oak.painted.brown.desc=Tablas de madera pintados de color café.
+tile.planks.oak.painted.blue.name=Tablones de Madera Azules
+tile.planks.oak.painted.blue.desc=Tablones de madera pintados de color azul.
+tile.planks.oak.painted.purple.name=Tablones de Madera Morados
+tile.planks.oak.painted.purple.desc=Tablones de madera pintados de color Morado
+tile.planks.oak.painted.cyan.name=Tablones de Madera Cian
+tile.planks.oak.painted.cyan.desc=Tablones de madera pintados de color cian.
+tile.planks.oak.painted.silver.name=Tablones de Madera Gris Claro
+tile.planks.oak.painted.silver.desc=Tablones de madera pintados de color gris claro.
+tile.planks.oak.painted.gray.name=Tablones de Madera Gris
+tile.planks.oak.painted.gray.desc=Tablones de madera pintados de color gris.
+tile.planks.oak.painted.pink.name=Tablones de Madera Rosas
+tile.planks.oak.painted.pink.desc=Tablones de madera pintados de color rosa. ¡A Barbie le encanta!
+tile.planks.oak.painted.lime.name=Tablones de Madera Verde Lima
+tile.planks.oak.painted.lime.desc=Tablones de madera pintados de color Verde Lima.
+tile.planks.oak.painted.yellow.name=Tablones de Madera Amarillas
+tile.planks.oak.painted.yellow.desc=Tablones de madera pintados de color amarillo.
+tile.planks.oak.painted.lightblue.name=Tablones de Madera Azul Claro
+tile.planks.oak.painted.lightblue.desc=Tablones de madera pintados de color azul claro.
+tile.planks.oak.painted.magenta.name=Tablones de Madera Magenta
+tile.planks.oak.painted.magenta.desc=Tablones de madera pintados de color magenta.
+tile.planks.oak.painted.orange.name=Tablones de Madera Anaranjados
+tile.planks.oak.painted.orange.desc=Tablones de madera pintados de color naranja.
+tile.planks.oak.painted.white.name=Tablones de Madera Blancos
+tile.planks.oak.painted.white.desc=Tablones de madera pintados de color blanco.
+
+tile.torch.coal.name=Antorcha
+tile.torch.coal.desc=Tu camino siempre estará iluminado.
+
+tile.ladder.oak.name=Escalera de Mano de Roble
+tile.ladder.oak.desc=Exclente para subir verticalmente por donde sea.
+
+tile.fence.planks.oak.name=Valla de Roble
+tile.fence.planks.oak.desc=Demasiado alto para que puedas saltarla.
+
+tile.fence.planks.oak.painted.name=Valla de Madera Misteriosa
+tile.fence.planks.oak.painted.desc=Me rindo. Sigo preguntandome como haces para conseguir estas cosas.
+tile.fence.planks.oak.painted.black.name=Valla de Madera Negra
+tile.fence.planks.oak.painted.black.desc=Vallas de madera pintadas de color negro.
+tile.fence.planks.oak.painted.red.name=Valla de Madera Roja
+tile.fence.planks.oak.painted.red.desc=Vallas de madera pintadas de color rojo.
+tile.fence.planks.oak.painted.green.name=Valla de Madera Verde
+tile.fence.planks.oak.painted.green.desc=Vallas de madera pintadas de color verde.
+tile.fence.planks.oak.painted.brown.name=Valla de Madera Café
+tile.fence.planks.oak.painted.brown.desc=Vallas de madera pintadas de color Café
+tile.fence.planks.oak.painted.blue.name=Valla de Madera Azul
+tile.fence.planks.oak.painted.blue.desc=Vallas de madera pintadas de color azul.
+tile.fence.planks.oak.painted.purple.name=Valla de Madera Morada
+tile.fence.planks.oak.painted.purple.desc=Vallas de madera pintadas de color morado.
+tile.fence.planks.oak.painted.cyan.name=Valla de Madera Cian
+tile.fence.planks.oak.painted.cyan.desc=Vallas de madera pintadas de color cian.
+tile.fence.planks.oak.painted.silver.name=Valla de Madera Plata
+tile.fence.planks.oak.painted.silver.desc=Vallas de madera pintadas de color plata.
+tile.fence.planks.oak.painted.gray.name=Valla de Madera Gris
+tile.fence.planks.oak.painted.gray.desc=Vallas de madera pintadas de color gris.
+tile.fence.planks.oak.painted.pink.name=Valla de Madera rosa
+tile.fence.planks.oak.painted.pink.desc=Vallas de madera pintadas de color rosa.
+tile.fence.planks.oak.painted.lime.name=Valla de Madera Verde Lima
+tile.fence.planks.oak.painted.lime.desc=Vallas de madera pintadas de color verde lima.
+tile.fence.planks.oak.painted.yellow.name=Valla de Madera Amarilla
+tile.fence.planks.oak.painted.yellow.desc=Vallas de madera pintadas de color amarillo.
+tile.fence.planks.oak.painted.lightblue.name=Valla de Madera Azul Claro
+tile.fence.planks.oak.painted.lightblue.desc=Vallas de madera pintadas de color azul claro.
+tile.fence.planks.oak.painted.magenta.name=Valla de Madera Magenta
+tile.fence.planks.oak.painted.magenta.desc=Vallas de madera pintadas de color magenta.
+tile.fence.planks.oak.painted.orange.name=Valla de Madera Naranja
+tile.fence.planks.oak.painted.orange.desc=Vallas de madera pintadas de color naranja.
+tile.fence.planks.oak.painted.white.name=Valla de Madera Blanca
+tile.fence.planks.oak.painted.white.desc=Vallas de madera pintadas de color blanco.
+
+tile.fencegate.planks.oak.name=Puerta de valla de Madera
+tile.fencegate.planks.oak.desc=Es como una puerta, pero para vallas. ¿Te sabes el chiste del hombre entre 2 vallas?
+
+tile.fencegate.planks.oak.painted.name=Puerta de valla de Madera Misteriosa
+tile.fencegate.planks.oak.painted.desc=No deberías de tener esto... ¡ES EN SERIO!
+tile.fencegate.planks.oak.painted.black.name=Puerta de valla de Madera Negra
+tile.fencegate.planks.oak.painted.black.desc=Una Puerta de valla hecha de madera, pintada de color negro.
+tile.fencegate.planks.oak.painted.red.name=Puerta de valla de Madera Roja
+tile.fencegate.planks.oak.painted.red.desc=Una Puerta de valla hecha de madera, pintada de color rojo.
+tile.fencegate.planks.oak.painted.green.name=Puerta de valla de Madera Verde
+tile.fencegate.planks.oak.painted.green.desc=Una Puerta de valla hecha de madera, pintada de color verde.
+tile.fencegate.planks.oak.painted.brown.name=Puerta de valla de Madera Café
+tile.fencegate.planks.oak.painted.brown.desc=Una Puerta de valla hecha de madera, pintada de color Café.
+tile.fencegate.planks.oak.painted.blue.name=Puerta de valla de Madera Azul
+tile.fencegate.planks.oak.painted.blue.desc=Una Puerta de valla hecha de madera, pintada de color azul.
+tile.fencegate.planks.oak.painted.purple.name=Puerta de valla de Madera Morada
+tile.fencegate.planks.oak.painted.purple.desc=Una Puerta de valla hecha de madera, pintada de color morado.
+tile.fencegate.planks.oak.painted.cyan.name=Puerta de valla de Madera Cian
+tile.fencegate.planks.oak.painted.cyan.desc=Una Puerta de valla hecha de madera, pintada de color cian.
+tile.fencegate.planks.oak.painted.silver.name=Puerta de valla de Madera Gris Claro
+tile.fencegate.planks.oak.painted.silver.desc=Una Puerta de valla hecha de madera, pintada de color gris claro.
+tile.fencegate.planks.oak.painted.gray.name=Puerta de valla de Madera Gris
+tile.fencegate.planks.oak.painted.gray.desc=Una Puerta de valla hecha de madera, pintada de color gris.
+tile.fencegate.planks.oak.painted.pink.name=Puerta de valla de Madera Rosa
+tile.fencegate.planks.oak.painted.pink.desc=Una Puerta de valla hecha de madera, pintada de color rosa.
+tile.fencegate.planks.oak.painted.lime.name=Puerta de valla de Madera Verde Lima
+tile.fencegate.planks.oak.painted.lime.desc=Una Puerta de valla hecha de madera, pintada de color verde lima.
+tile.fencegate.planks.oak.painted.yellow.name=Puerta de valla de Madera Amarilla
+tile.fencegate.planks.oak.painted.yellow.desc=Una Puerta de valla hecha de madera, pintada de color amarilla.
+tile.fencegate.planks.oak.painted.lightblue.name=Puerta de valla de Madera Azul Claro
+tile.fencegate.planks.oak.painted.lightblue.desc=Una Puerta de valla hecha de madera, pintada de color azul claro.
+tile.fencegate.planks.oak.painted.magenta.name=Puerta de valla de Madera Magenta
+tile.fencegate.planks.oak.painted.magenta.desc=Una Puerta de valla hecha de madera, pintada de color magenta.
+tile.fencegate.planks.oak.painted.orange.name=Puerta de valla de Madera Naranja
+tile.fencegate.planks.oak.painted.orange.desc=Una Puerta de valla hecha de madera, pintada de color naranja.
+tile.fencegate.planks.oak.painted.white.name=Puerta de valla de Madera Blanca
+tile.fencegate.planks.oak.painted.white.desc=Una Puerta de valla hecha de madera, pintada de color blanco.
+
+tile.bookshelf.planks.oak.name=Estante de Libros
+tile.bookshelf.planks.oak.desc=Un sitio lleno de conocimiento ¿Qué tan seguido lees un libro?
+
+tile.wool.name=Lana
+tile.wool.desc=Como sea, ya no me importa como consigues esto...
+tile.wool.black.name=Lana Negra
+tile.wool.black.desc=Lana de una oveja, teñida de negro.
+tile.wool.red.name=Lana Roja
+tile.wool.red.desc=Lana de una oveja, teñida de rojo.
+tile.wool.green.name=Lana Verde
+tile.wool.green.desc=Lana de una oveja, teñida de verde.
+tile.wool.brown.name=Lana Café
+tile.wool.brown.desc=Lana de una oveja, teñida de café.
+tile.wool.blue.name=Lana Azul
+tile.wool.blue.desc=Lana de una oveja, teñida de azul.
+tile.wool.purple.name=Lana Morada
+tile.wool.purple.desc=Lana de una oveja, teñida de morado.
+tile.wool.cyan.name=Lana Cian
+tile.wool.cyan.desc=Lana de una oveja, teñida de cian.
+tile.wool.silver.name=Lana Gris Claro
+tile.wool.silver.desc=Lana de una oveja, teñida de gris claro.
+tile.wool.gray.name=Lana Gris
+tile.wool.gray.desc=Lana de una oveja, teñida de gris.
+tile.wool.pink.name=Lana Rosa
+tile.wool.pink.desc=Lana de una oveja, teñida de rosa.
+tile.wool.lime.name=Lana Verde Lima
+tile.wool.lime.desc=Lana de una oveja, teñida de verde lima.
+tile.wool.yellow.name=Lana Amarilla
+tile.wool.yellow.desc=Lana de una oveja, teñida de amarillo.
+tile.wool.lightblue.name=Lana Azul Clara
+tile.wool.lightblue.desc=Lana de una oveja, teñida de azul claro.
+tile.wool.magenta.name=Lana Magenta
+tile.wool.magenta.desc=Lana de una oveja, teñida de magenta.
+tile.wool.orange.name=Lana Naranja
+tile.wool.orange.desc=Lana de una oveja, teñida de naranja.
+tile.wool.white.name=Lana Blanca
+tile.wool.white.desc=Lana de una oveja, teñida de blanco.
+
+tile.brick.clay.name=Bloque de ladrillos de Arcilla
+tile.brick.clay.desc=Un bloque compuesto de ladrillos.
+tile.brick.stone.polished.name=Ladrillos de Piedra Pulida
+tile.brick.stone.polished.desc=Un bloque compuesto de ladrillos de piedra.
+tile.brick.stone.polished.mossy.name=Ladrillos de Piedra Musgosa Pulida
+tile.brick.stone.polished.mossy.desc=Un bloque compuesto de ladrillos de piedra, pero claro, tiene musgo.
+tile.brick.sandstone.name=Ladrillos de Arenisca
+tile.brick.sandstone.desc=Un bloque compuesto de arenisca.
+tile.brick.gold.name=Ladrillos de Oro
+tile.brick.gold.desc=Un bloque de ladrillos hecho de oro puro. ¡Gustos excentricos!
+tile.brick.lapis.name=Ladrillos de Lapislázuli
+tile.brick.lapis.desc=Un bloque de ladrillos hecho de lapislázuli.
+tile.brick.basalt.name=Ladrillos de Basalto
+tile.brick.basalt.desc=Un bloque compuesto de basalto.
+tile.brick.limestone.name=Ladrillos de Caliza
+tile.brick.limestone.desc=Un bloque compuesto de caliza.
+tile.brick.granite.name=Ladrillos de Granito
+tile.brick.granite.desc=Un bloque compuesto de granito.
+tile.brick.marble.name=Ladrillos de Mármol
+tile.brick.marble.desc=Un bloque compuesto de mármol.
+tile.brick.slate.name=Ladrillos de Pizarra
+tile.brick.slate.desc=Un bloque compuesto de pizarra.
+tile.brick.stone.name=Ladrillos de Piedra
+tile.brick.stone.desc=Un bloque compuesto de piedra.
+tile.brick.permafrost.name=Ladrillos de Permafrost
+tile.brick.permafrost.desc=Un bloque compuesto de permafrost. Vaya que te gusta el frío
+tile.brick.iron.name=Ladrillos de Hierro
+tile.brick.iron.desc=Un bloque compuesto de hierro.
+
+tile.slab.planks.oak.name=Losa de Madera de Roble
+tile.slab.planks.oak.desc=Una losa hecha de tablones de madera.
+tile.slab.cobble.stone.name=Losa de Roca
+tile.slab.cobble.stone.desc=Una losa de roca.
+tile.slab.sandstone.name=Losa de Arenisca
+tile.slab.sandstone.desc=Una losa de arenisca.
+tile.slab.brick.stone.polished.name=Losa de Ladrillo de Piedra Pulida
+tile.slab.brick.stone.polished.desc=Una losa de ladrillos de piedra pulida.
+tile.slab.stone.carved.name=Losa de Piedra Pulida
+tile.slab.stone.carved.desc=Una losa de piedra pulida.
+tile.slab.brick.marble.name=Losa de Ladrillo de Mármol
+tile.slab.brick.marble.desc=Una losa de ladrillos de mármol.
+tile.slab.brick.clay.name=Losa de Ladrillo de Arcilla
+tile.slab.brick.clay.desc=Una losa de ladrillos de arcilla.
+tile.slab.capstone.marble.name=Losa de Piedra Angular de Mármol
+tile.slab.capstone.marble.desc=Una losa hecha de mármol esculpida en una piedra angular.
+tile.slab.cobble.basalt.name=Losa de Basalto Labrado
+tile.slab.cobble.basalt.desc=Una losa de basalto labrado.
+tile.slab.cobble.limestone.name=Losa de Piedra Caliza Labrada
+tile.slab.cobble.limestone.desc=Una losa de piedra caliza Labrada.
+tile.slab.cobble.granite.name=Losa de Granito Labrado
+tile.slab.cobble.granite.desc=Una losa de granito labrado.
+tile.slab.brick.basalt.name=Losa de Ladrillo de Basalto
+tile.slab.brick.basalt.desc=Una losa de ladrillos de basalto.
+tile.slab.brick.limestone.name=Losa de Ladrillo de Caliza
+tile.slab.brick.limestone.desc=Una losa de ladrillos de caliza.
+tile.slab.brick.granite.name=Losa de Ladrillo de Granito
+tile.slab.brick.granite.desc=Una losa de ladrillos de granito.
+tile.slab.brick.slate.name=Losa de Ladrillo de Pizarra
+tile.slab.brick.slate.desc=Una losa de ladrillos de pizarra.
+tile.slab.brick.stone.name=Losa de Ladrillo de Piedra
+tile.slab.brick.stone.desc=Una losa de ladrillos de piedra.
+tile.slab.granite.carved.name=Losa de Granito Pulido
+tile.slab.granite.carved.desc=Una losa de granito pulido.
+tile.slab.limestone.carved.name=Losa de Piedra Caliza Pulida
+tile.slab.limestone.carved.desc=Una losa de piedra caliza pulida.
+tile.slab.basalt.carved.name=Losa de Basalto Pulido
+tile.slab.basalt.carved.desc=Una losa de basalto pulido.
+
+tile.slab.planks.oak.painted.name=Losa de Madera Misteriosa
+tile.slab.planks.oak.painted.desc=¡¿Cómo has conseguido esto?!
+tile.slab.planks.oak.painted.black.name=Losa de Madera Negra
+tile.slab.planks.oak.painted.black.desc=Una losa de tablones de madera, teñida de negro.
+tile.slab.planks.oak.painted.red.name=Losa de Madera Roja
+tile.slab.planks.oak.painted.red.desc=Una losa de tablones de madera, teñida de rojo.
+tile.slab.planks.oak.painted.green.name=Losa de Madera Verde
+tile.slab.planks.oak.painted.green.desc=Una losa de tablones de madera, teñida de verde.
+tile.slab.planks.oak.painted.brown.name=Losa de Madera Café
+tile.slab.planks.oak.painted.brown.desc=Una losa de tablones de madera, teñida de marrón.
+tile.slab.planks.oak.painted.blue.name=Losa de Madera Azul
+tile.slab.planks.oak.painted.blue.desc=Una losa de tablones de madera, teñida de azul.
+tile.slab.planks.oak.painted.purple.name=Losa de Madera Morada
+tile.slab.planks.oak.painted.purple.desc=Una losa de tablones de madera, teñida de púrpura.
+tile.slab.planks.oak.painted.cyan.name=Losa de Madera Cian
+tile.slab.planks.oak.painted.cyan.desc=Una losa de tablones de madera, teñida de cian.
+tile.slab.planks.oak.painted.silver.name=Losa de Madera Gris Claro
+tile.slab.planks.oak.painted.silver.desc=Una losa de tablones de madera, teñida de gris claro.
+tile.slab.planks.oak.painted.gray.name=Losa de Madera Gris
+tile.slab.planks.oak.painted.gray.desc=Una losa de tablones de madera, teñida de gris.
+tile.slab.planks.oak.painted.pink.name=Losa de Madera Rosa
+tile.slab.planks.oak.painted.pink.desc=Una losa de tablones de madera, teñida de rosa.
+tile.slab.planks.oak.painted.lime.name=Losa de Madera Verde Lima
+tile.slab.planks.oak.painted.lime.desc=Una losa de tablones de madera, teñida de verde lima.
+tile.slab.planks.oak.painted.yellow.name=Losa de Madera Amarilla
+tile.slab.planks.oak.painted.yellow.desc=Una losa de tablones de madera, teñida de amarillo.
+tile.slab.planks.oak.painted.lightblue.name=Losa de Madera Azul Claro
+tile.slab.planks.oak.painted.lightblue.desc=Una losa de tablones de madera, teñida de azul claro.
+tile.slab.planks.oak.painted.magenta.name=Losa de Madera Magenta
+tile.slab.planks.oak.painted.magenta.desc=Una losa de tablones de madera, teñida de magenta.
+tile.slab.planks.oak.painted.orange.name=Losa de Madera Naranja
+tile.slab.planks.oak.painted.orange.desc=Una losa de tablones de madera, teñida de naranja.
+tile.slab.planks.oak.painted.white.name=Losa de Madera Blanca
+tile.slab.planks.oak.painted.white.desc=Una losa de tablones de madera, teñida de blanco.
+
+tile.stairs.planks.oak.name=Escaleras de Madera
+tile.stairs.planks.oak.desc=Un bloque de madera utilizado para subir rápidamente.
+tile.stairs.cobble.stone.name=Escaleras de Roca
+tile.stairs.cobble.stone.desc=Un bloque de roca utilizado para subir rápidamente.
+tile.stairs.brick.stone.polished.name=Escaleras de Ladrillo de Piedra Pulida
+tile.stairs.brick.stone.polished.desc=Un bloque de ladrillo de piedra pulida utilizado para subir rápidamente.
+tile.stairs.brick.marble.name=Escaleras de Ladrillo de Mármol
+tile.stairs.brick.marble.desc=Un bloque de ladrillo de mármol utilizado para subir rápidamente.
+tile.stairs.cobble.basalt.name=Escaleras de Basalto Enlosado
+tile.stairs.cobble.basalt.desc=Un bloque de basalto enlosado utilizado para subir rápidamente.
+tile.stairs.cobble.limestone.name=Escaleras de Piedra Caliza Labrada
+tile.stairs.cobble.limestone.desc=Un bloque de piedra caliza labrada utilizado para subir rápidamente.
+tile.stairs.cobble.granite.name=Escaleras de Granito Labrado
+tile.stairs.cobble.granite.desc=Un bloque de granito labrado utilizado para subir rápidamente.
+tile.stairs.brick.basalt.name=Escaleras de Ladrillo de Basalto
+tile.stairs.brick.basalt.desc=Un bloque de ladrillo de basalto utilizado para subir rápidamente.
+tile.stairs.brick.limestone.name=Escaleras de Ladrillo de Piedra Caliza
+tile.stairs.brick.limestone.desc=Un bloque de ladrillo de piedra caliza utilizado para subir rápidamente.
+tile.stairs.brick.granite.name=Escaleras de Ladrillo de Granito
+tile.stairs.brick.granite.desc=Un bloque de ladrillo de granito utilizado para subir rápidamente.
+tile.stairs.brick.clay.name=Escaleras de Ladrillo de Arcilla
+tile.stairs.brick.clay.desc=Un bloque de ladrillo de arcilla utilizado para subir rápidamente.
+tile.stairs.brick.slate.name=Escaleras de Ladrillo de Pizarra
+tile.stairs.brick.slate.desc=Un bloque de ladrillo de pizarra utilizado para subir rápidamente.
+tile.stairs.brick.stone.name=Escaleras de Ladrillo de Piedra
+tile.stairs.brick.stone.desc=Un bloque de ladrillo de piedra utilizado para subir rápidamente.
+
+tile.stairs.planks.oak.painted.name=Escaleras de Madera Misteriosas
+tile.stairs.planks.oak.painted.desc=¡¿Cómo has conseguido esto?!
+tile.stairs.planks.oak.painted.black.name=Escaleras de Madera Negras
+tile.stairs.planks.oak.painted.black.desc=Escalones de madera, pintados de negro.
+tile.stairs.planks.oak.painted.red.name=Escaleras de Madera Rojas
+tile.stairs.planks.oak.painted.red.desc=Escalones de madera, pintados de rojo.
+tile.stairs.planks.oak.painted.green.name=Escaleras de Madera Verdes
+tile.stairs.planks.oak.painted.green.desc=Escalones de madera, pintados de verde.
+tile.stairs.planks.oak.painted.brown.name=Escaleras de Madera Café
+tile.stairs.planks.oak.painted.brown.desc=Escalones de madera, pintados de café
+tile.stairs.planks.oak.painted.blue.name=Escaleras de Madera Azules
+tile.stairs.planks.oak.painted.blue.desc=Escalones de madera, pintados de azul.
+tile.stairs.planks.oak.painted.purple.name=Escaleras de Madera Moradas
+tile.stairs.planks.oak.painted.purple.desc=Escalones de madera, pintados de morado.
+tile.stairs.planks.oak.painted.cyan.name=Escaleras de Madera Cian
+tile.stairs.planks.oak.painted.cyan.desc=Escalones de madera, pintados de cian.
+tile.stairs.planks.oak.painted.silver.name=Escaleras de Madera Gris Claro
+tile.stairs.planks.oak.painted.silver.desc=Escalones de madera, pintados de gris claro.
+tile.stairs.planks.oak.painted.gray.name=Escaleras de Madera Gris
+tile.stairs.planks.oak.painted.gray.desc=Escalones de madera, pintados de gris.
+tile.stairs.planks.oak.painted.pink.name=Escaleras de Madera Rosas
+tile.stairs.planks.oak.painted.pink.desc=Escalones de madera, pintados de rosa.
+tile.stairs.planks.oak.painted.lime.name=Escaleras de Madera Verde Lima
+tile.stairs.planks.oak.painted.lime.desc=Escalones de madera, pintados de verde lima.
+tile.stairs.planks.oak.painted.yellow.name=Escaleras de Madera Amarillas
+tile.stairs.planks.oak.painted.yellow.desc=Escalones de madera, pintados de amarillo.
+tile.stairs.planks.oak.painted.lightblue.name=Escaleras de Madera Azul Claro
+tile.stairs.planks.oak.painted.lightblue.desc=Escalones de madera, pintados de azul claro.
+tile.stairs.planks.oak.painted.magenta.name=Escaleras de Madera Magenta
+tile.stairs.planks.oak.painted.magenta.desc=Escalones de madera, pintados de magenta.
+tile.stairs.planks.oak.painted.orange.name=Escaleras de Madera Naranjas
+tile.stairs.planks.oak.painted.orange.desc=Escalones de madera, pintados de naranja.
+tile.stairs.planks.oak.painted.white.name=Escaleras de Madera Blancas
+tile.stairs.planks.oak.painted.white.desc=Escalones de madera, pintados de blanco.
+
+tile.obsidian.name=Obsidiana
+tile.obsidian.desc=Un bloque de roca volcánica que ha sido enfriada rápidamente. ¡Vaya que es resistente!
+
+tile.glass.name=Cristal
+tile.glass.desc=Un bloque transparente creado gracias al fundir la arena.
+tile.glass.tinted.name=Cristal Tintado
+tile.glass.tinted.desc=Un cristal especial que permite bloquear la luz.
+
+tile.grass.name=Césped
+tile.grass.desc=Verde y natural.
+tile.grass.retro.name=Césped Retro
+tile.grass.retro.desc=Césped normal, pero huele viejo. (Tiene un toque nostálgico)
+tile.grass.scorched.name=Césped Chamuscado
+tile.grass.scorched.desc=Este césped ha tomado demasiado sol. El bloqueador solar habría sido buena idea.
+
+tile.path.dirt.name=Camino de Tierra
+tile.path.dirt.desc=Tierra que ha sido aplanada por el paso del tiempo y las pisadas, o con una pala.
+
+tile.dirt.name=Tierra
+tile.dirt.desc=Sale del suelo.
+tile.dirt.scorched.name=Tierra Chamuscada
+tile.dirt.scorched.desc=Tierra que ha pasado demasiado tiempo en el sol.
+tile.dirt.scorched.rich.name=Tierra Chamuscada Mineralizada
+tile.dirt.scorched.rich.desc=Tierra que ha pasado demasiado tiempo en el sol. Está compuesta por muchos minerales. ¡Suertudo!
+
+tile.mud.name=Barro
+tile.mud.desc=Un bloque de lodo, cuidado al caminar sobre esto.
+tile.mud.baked.name=Barro Seco
+tile.mud.baked.desc=Lodo que ha sido secado, se han formado grietas.
+
+tile.sponge.dry.name=Esponja
+tile.sponge.dry.desc=Una esponja, perfecta para absorber agua. ¿Quién vive en una piña debajo del mar?
+tile.sponge.wet.name=Esponja Mojada
+tile.sponge.wet.desc=Una esponja llena de agua, necesitarás drenar el agua de alguna forma.
+
+tile.moss.stone.name=Piedra Musgosa
+tile.moss.stone.desc=Un bloque de piedra que ha sido completamente consumido por el musgo.
+tile.moss.basalt.name=Basalto Musgoso
+tile.moss.basalt.desc=Un bloque de basalto que ha sido completamente consumido por el musgo.
+tile.moss.limestone.name=Caliza Musgosa
+tile.moss.limestone.desc=Un bloque de caliza que ha sido completamente consumido por el musgo.
+tile.moss.granite.name=Granito Musgoso
+tile.moss.granite.desc=Un bloque de granito que ha sido completamente consumido por el musgo.
+
+tile.sand.name=Arena
+tile.sand.desc=Se escurre por todos lados...
+tile.gravel.name=Grava
+tile.gravel.desc=Un montón de piedras y minerales sueltos.
+
+tile.bedrock.name=Piedra Madre
+tile.bedrock.desc=La substancia más dura conocido por el hombre. Deja de intentar romperla.
+
+tile.fluid.water.flowing.name=Agua Fluyendo
+tile.fluid.water.flowing.desc=Agua que fluye al ser colocada.
+tile.fluid.water.still.name=Agua Estática
+tile.fluid.water.still.desc=Agua que no fluye al ser colocada.
+tile.fluid.lava.flowing.name=Lava Fluyendo
+tile.fluid.lava.flowing.desc=Lava que fluye al ser colocada.
+tile.fluid.lava.still.name=Lava Estática
+tile.fluid.lava.still.desc=Lava que no fluye al ser colocada.
+
+tile.log.oak.name=Tronco de Roble
+tile.log.oak.desc=Un tronco de un árbol de roble.
+tile.log.pine.name=Tronco de Pino
+tile.log.pine.desc=Un tronco de un árbol de pino.
+tile.log.birch.name=Tronco de Abedul
+tile.log.birch.desc=Un tronco de un árbol de abedul.
+tile.log.cherry.name=Tronco de Cerezo
+tile.log.cherry.desc=Un tronco de un árbol de cerezo.
+tile.log.eucalyptus.name=Tronco de Eucalipto
+tile.log.eucalyptus.desc=Un tronco de un árbol de eucalipto.
+tile.log.oak.mossy.name=Tronco de Roble Musgoso
+tile.log.oak.mossy.desc=Un tronco de un árbol de roble cubierto de musgo.
+
+tile.leaves.oak.name=Hojas de Roble
+tile.leaves.oak.desc=Hojas de un árbol de roble.
+tile.leaves.pine.name=Hojas de Pino
+tile.leaves.pine.desc=Hojas de un árbol de pino.
+tile.leaves.birch.name=Hojas de Abedul
+tile.leaves.birch.desc=Hojas de un árbol de abedul.
+tile.leaves.cherry.name=Hojas de Cerezo
+tile.leaves.cherry.desc=Hojas de un árbol de cerezo.
+tile.leaves.eucalyptus.name=Hojas de Eucalipto
+tile.leaves.eucalyptus.desc=Hojas de un árbol de eucalipto.
+tile.leaves.oak.retro.name=Hojas Retro
+tile.leaves.oak.retro.desc=Hojas que parecen dar un ambiente nostálgico.
+tile.leaves.shrub.name=Hojas de Arbusto
+tile.leaves.shrub.desc=Hojas de un arbusto.
+tile.leaves.cherry.flowering.name=Hojas de Cerezo en Flor
+tile.leaves.cherry.flowering.desc=Hojas de un árbol de cerezo en pleno florecimiento.
+
+tile.sapling.oak.name=Brote de Roble
+tile.sapling.oak.desc=Planta para cultivar un árbol de roble.
+tile.sapling.pine.name=Brote de Pino
+tile.sapling.pine.desc=Planta para cultivar un árbol de pino.
+tile.sapling.birch.name=Brote de Abedul
+tile.sapling.birch.desc=Planta para cultivar un árbol de abedul.
+tile.sapling.cherry.name=Brote de Cerezo
+tile.sapling.cherry.desc=Planta para cultivar un árbol de cerezo.
+tile.sapling.eucalyptus.name=Brote de Eucalipto
+tile.sapling.eucalyptus.desc=Planta para cultivar un árbol de eucalipto.
+tile.sapling.oak.retro.name=Brote de Roble Retro
+tile.sapling.oak.retro.desc=Planta para cultivar un árbol de antaño.
+tile.sapling.shrub.name=Brote de Arbusto
+tile.sapling.shrub.desc=Planta para cultivar un arbusto.
+
+tile.tallgrass.name=Césped Alto
+tile.tallgrass.desc=Un césped que parece haber dado un estirón.
+tile.tallgrass.fern.name=Helecho
+tile.tallgrass.fern.desc=Una planta de helecho.
+tile.deadbush.name=Arbusto Seco
+tile.deadbush.desc=Una planta seca y marchita.
+tile.spinifex.name=Spinifex
+tile.spinifex.desc=Una hierba delgada y frágil de regiones secas.
+tile.algae.name=Alga
+tile.algae.desc=Una vegetación flota en la superficie del agua.
+
+tile.flower.yellow.name=Diente de León
+tile.flower.yellow.desc=Una hermosa flor amarilla.
+tile.flower.red.name=Rosa
+tile.flower.red.desc=Una hermosa flor roja.
+
+tile.mushroom.red.name=Champión Rojo
+tile.mushroom.red.desc=Un champiñón rojo realmente delicioso. Ideal para una sopita.
+tile.mushroom.brown.name=Champiñón Café
+tile.mushroom.brown.desc=Un champiñón café realmente delicioso. Ideal para una sopita.
+
+tile.ore.coal.stone.name=Mineral de Carbón en Piedra
+tile.ore.coal.stone.desc=Un pedazo de carbón incrustado en piedra.
+tile.ore.coal.basalt.name=Mineral de Carbón en Basalto
+tile.ore.coal.basalt.desc=Un pedazo de carbón incrustado en basalto.
+tile.ore.coal.limestone.name=Mineral de Carbón en Caliza
+tile.ore.coal.limestone.desc=Un pedazo de carbón incrustado en caliza.
+tile.ore.coal.granite.name=Mineral de Carbón en Granito
+tile.ore.coal.granite.desc=Un pedazo de carbón incrustado en granito.
+
+tile.ore.iron.stone.name=Mineral de Hierro en Piedra
+tile.ore.iron.stone.desc=Un pedazo de hierro incrustado en piedra.
+tile.ore.iron.basalt.name=Mineral de Hierro en Basalto
+tile.ore.iron.basalt.desc=Un pedazo de hierro incrustado en basalto.
+tile.ore.iron.limestone.name=Mineral de Hierro en Caliza
+tile.ore.iron.limestone.desc=Un pedazo de hierro incrustado en caliza.
+tile.ore.iron.granite.name=Mineral de Hierro en Granito
+tile.ore.iron.granite.desc=Un pedazo de hierro incrustado en granito.
+
+tile.ore.gold.stone.name=Mineral de Oro en Piedra
+tile.ore.gold.stone.desc=Un pedazo de oro incrustado en piedra.
+tile.ore.gold.basalt.name=Mineral de Oro en Basalto
+tile.ore.gold.basalt.desc=Un pedazo de oro incrustado en basalto.
+tile.ore.gold.limestone.name=Mineral de Oro en Caliza
+tile.ore.gold.limestone.desc=Un pedazo de oro incrustado en caliza.
+tile.ore.gold.granite.name=Mineral de Oro en Granito
+tile.ore.gold.granite.desc=Un pedazo de oro incrustado en granito.
+
+tile.ore.lapis.stone.name=Mineral de Lapislázuli en Piedra
+tile.ore.lapis.stone.desc=Un pedazo de lapislázuli incrustado en piedra.
+tile.ore.lapis.basalt.name=Mineral de Lapislázuli en Basalto
+tile.ore.lapis.basalt.desc=Un pedazo de lapislázuli incrustado en basalto.
+tile.ore.lapis.limestone.name=Mineral de Lapislázuli en Caliza
+tile.ore.lapis.limestone.desc=Un pedazo de lapislázuli incrustado en caliza.
+tile.ore.lapis.granite.name=Mineral de Lapislázuli en Granito
+tile.ore.lapis.granite.desc=Un pedazo de lapislázuli incrustado en granito.
+
+tile.ore.redstone.stone.name=Mineral de Redstone en Piedra
+tile.ore.redstone.stone.desc=Un pedazo de redstone incrustado en piedra.
+tile.ore.redstone.basalt.name=Mineral de Redstone en Basalto
+tile.ore.redstone.basalt.desc=Un pedazo de redstone incrustado en basalto.
+tile.ore.redstone.limestone.name=Mineral de Redstone en Caliza
+tile.ore.redstone.limestone.desc=Un pedazo de redstone incrustado en caliza.
+tile.ore.redstone.granite.name=Mineral de Redstone en Granito
+tile.ore.redstone.granite.desc=Un pedazo de redstone incrustado en granito.
+tile.ore.redstone.glowing.stone.name=Mineral de Redstone Brillante en Piedra
+tile.ore.redstone.glowing.stone.desc=Un pedazo de redstone incrustado en piedra. ¡Emite luz al tener algún tipo de contacto físico!
+tile.ore.redstone.glowing.basalt.name=Mineral de Redstone Brillante en Basalto
+tile.ore.redstone.glowing.basalt.desc=Un pedazo de redstone incrustado en basalto. ¡Emite luz al tener algún tipo de contacto físico!
+tile.ore.redstone.glowing.limestone.name=Mineral de Redstone Brillante en Caliza
+tile.ore.redstone.glowing.limestone.desc=Un pedazo de redstone incrustado en caliza. ¡Emite luz al tener algún tipo de contacto físico!
+tile.ore.redstone.glowing.granite.name=Mineral de Redstone Brillante en Granito
+tile.ore.redstone.glowing.granite.desc=Un pedazo de redstone incrustado en granito. ¡Emite luz al tener algún tipo de contacto físico!
+
+tile.ore.diamond.stone.name=Mineral de Diamante en Piedra
+tile.ore.diamond.stone.desc=Un pedazo de diamante incrustado en piedra.
+tile.ore.diamond.basalt.name=Mineral de Diamante en Basalto
+tile.ore.diamond.basalt.desc=Un pedazo de diamante incrustado en basalto.
+tile.ore.diamond.limestone.name=Mineral de Diamante en Caliza
+tile.ore.diamond.limestone.desc=Un pedazo de diamante incrustado en caliza.
+tile.ore.diamond.granite.name=Mineral de Diamante en Granito
+tile.ore.diamond.granite.desc=Un pedazo de diamante incrustado en granito.
+
+tile.ore.nethercoal.netherrack.name=Mineral de Carbón del Nether
+tile.ore.nethercoal.netherrack.desc=Un trozo de carbón del Nether incrustado en Netherrack. ¡Es muy caliente!
+
+tile.block.coal.name=Bloque de Carbón
+tile.block.coal.desc=Un bloque sólido hecho de carbón.
+tile.block.iron.name=Bloque de Hierro
+tile.block.iron.desc=Un bloque sólido hecho de hierro.
+tile.block.gold.name=Bloque de Oro
+tile.block.gold.desc=Un bloque sólido hecho de oro.
+tile.block.lapis.name=Bloque de Lapislázuli
+tile.block.lapis.desc=Un bloque sólido hecho de lapislázuli.
+tile.block.redstone.name=Bloque de Redstone
+tile.block.redstone.desc=Un bloque sólido hecho de Redstone
+tile.block.diamond.name=Bloque de Diamante
+tile.block.diamond.desc=Un bloque sólido hecho de diamante. 
+tile.block.nethercoal.name=Bloque de Carbón Infernal
+tile.block.nethercoal.desc=Un bloque sólido hecho de carbón infernal.
+tile.block.steel.name=Bloque de Acero
+tile.block.steel.desc=Un bloque sólido hecho de acero.
+tile.block.quartz.name=Bloque de Cuarzo
+tile.block.quartz.desc=Un bloque sólido hecho de cuarzo.
+tile.block.olivine.name=Bloque de Olivina
+tile.block.olivine.desc=Un bloque sólido hecho de olivina.
+tile.block.charcoal.name=Bloque de Carbón Vegetal
+tile.block.charcoal.desc=Un bloque sólido hecho de carbón vegetal.
+
+tile.wire.redstone.name=Línea de Redstone
+tile.wire.redstone.desc=Una línea de Redstone esparcida en el suelo.
+
+tile.torch.redstone.idle.name=Antorcha de Redstone
+tile.torch.redstone.idle.desc=Emite una señal constante de energía.
+tile.torch.redstone.active.name=Antorcha de Redstone (Activa)
+tile.torch.redstone.active.desc=Emite una señal constante de energía.
+
+tile.button.stone.name=Botón de Piedra
+tile.button.stone.desc=Emite un pulso de energía cuando se interactúa con esto.
+
+tile.lever.cobble.stone.name=Palanca de Roca
+tile.lever.cobble.stone.desc=Permite emitir un flujo constante de energía cuando está activado.
+
+tile.pressureplate.stone.name=Placa de Presión de Piedra
+tile.pressureplate.stone.desc=Emita una señal constante cuando una criatura se pone encima.
+tile.pressureplate.planks.oak.name=Placa de Presión de Madera
+tile.pressureplate.planks.oak.desc=Emita una señal constante cuando cualquier cosa se pone encima, incluido objetos.
+tile.pressureplate.cobble.stone.name=Placa de Presión de Roca
+tile.pressureplate.cobble.stone.desc=Emita una señal constante cuando el jugador se pone encima.
+
+tile.motionsensor.idle.name=Sensor de Movimiento
+tile.motionsensor.idle.desc=Emite una señal cuando algo se mueve delante de esto.
+tile.motionsensor.active.name=Sensor de Movimiento (Activo)
+tile.motionsensor.active.desc=Emite una señal cuando algo se mueve delante de esto.
+
+tile.repeater.idle.name=Repetidor de Redstone
+tile.repeater.idle.desc=Repite la señal con máximo de fuerza.
+tile.repeater.active.name=Repetidor de Redstone (Activo)
+tile.repeater.active.desc=Repite la señal con máximo de fuerza.
+
+tile.piston.base.name=Pistón
+tile.piston.base.desc=Empuja bloques que estén delante, pero no los tira.
+tile.piston.base.sticky.name=Pistón Pegajoso
+tile.piston.base.sticky.desc=Empuja y tira bloques que estén delante.
+tile.piston.head.name=Cabeza de Pistón
+tile.piston.head.desc=La parte encargada de empujar de un pistón.
+tile.piston.moving.name=Movedor de Pistón
+tile.piston.moving.desc=La parte invisible que se mueve de un pistón.
+
+tile.noteblock.name=Bloque Musical
+tile.noteblock.desc=Hace sonar una nota musical cuando recibe una señal. También puedes usarlo de manera manual. ¡Sientete como Beethoven!
+
+tile.rail.name=Raíl
+tile.rail.desc=Colócalo en el suelo y usa una vagoneta para moverte rápidamente de manera horizontal.
+tile.rail.powered.name=Raíl Propulsado
+tile.rail.powered.desc=Colócalo en el suelo, dale una señal de Redstone y usa una vagoneta para ir muy rápido.
+tile.rail.detector.name=Raíl Detector
+tile.rail.detector.desc=Emite una señal cuando una vagoneta pasa por encima.
+
+tile.spikes.name=Trampa de Picos
+tile.spikes.desc=Se desactiva cuando recibe una señal. Técnicamente se podría considerar un crimen de guerra... (Pero nadie tiene que saberlo)
+
+tile.dispenser.cobble.stone.name=Dispensador
+tile.dispenser.cobble.stone.desc=Lanza objetos directamente enfrente de este bloque.
+
+tile.trapdoor.planks.oak.name=Trampilla de Madera
+tile.trapdoor.planks.oak.desc=Es como una puerta, pero más aplanada.
+tile.trapdoor.iron.name=Trampilla de Hierro
+tile.trapdoor.iron.desc=Es como una puerta, pero más aplanada. Se abre al darle una señal.
+tile.trapdoor.glass.name=Trampilla de Cristal
+tile.trapdoor.glass.desc=Es como una puerta, pero más aplanada. Es transparente.
+
+tile.tnt.name=Dinamita
+tile.tnt.desc=Con un encendedor o una señal de redstone explota. ¿Te sirve un consejo?, ¡HUYE antes de que eso pase!
+
+tile.door.planks.oak.bottom.name=Parte de Debajo de una Puerta
+tile.door.planks.oak.bottom.desc=No es muy útil que digamos, la trampilla es mejor opción.
+tile.door.planks.oak.top.name=Parte de Encima de una Puerta
+tile.door.planks.oak.top.desc=¿Funciona? Más o menos, ¿Es útil? Es debatible.
+tile.door.iron.bottom.name=Parte de Debajo de una Puerta de Hierro
+tile.door.iron.bottom.desc=No te va a ser útil, mejor coloca una trampilla a este paso.
+tile.door.iron.top.name=Parte de Arriba de una Puerta de Hierro
+tile.door.iron.top.desc=Pobrecillo, no puede sentir sus piernas.
+
+tile.mesh.name=Bloque de Malla
+tile.mesh.desc=Permite el paso de objetos, pero nada más. No te hagas ilusiones.
+
+tile.bed.name=Cama
+tile.bed.desc=Tomate un descanso en la noche
+
+tile.cobweb.name=Telaraña
+tile.cobweb.desc=Una Secresión de una araña... No me quiero imaginar que sea otra cosa.
+
+tile.fire.name=Fuego
+tile.fire.desc=¡Aaaaahh! ¡Me quemo!
+
+tile.mobspawner.name=Generador de Criaturas
+tile.mobspawner.desc=Una prisión llena de pesadillas. Criaturas apareceran alrededor del generador.
+tile.mobspawner.deactivated.name=Generador de Criaturas Desactivado
+tile.mobspawner.deactivated.desc=Libre de las pesadillas, ahora este bloque posee solo cualidades decorativas.
+
+tile.workbench.name=Mesa de Trabajo
+tile.workbench.desc=Para proyectos algo más... "espaciosos".
+
+tile.furnace.stone.idle.name=Horno
+tile.furnace.stone.idle.desc=Sirve para fundir, calentar o cocinar objetos y bloques.
+tile.furnace.stone.active.name=Horno (Encendido)
+tile.furnace.stone.active.desc=Sirve para fundir, calentar o cocinar objetos y bloques.
+tile.furnace.blast.idle.name=Horno de Fundición
+tile.furnace.blast.idle.desc=Sirve para fundir, calentar o cocinar objetos y bloques. Más veloz que el horno convencional.
+tile.furnace.blast.active.name=Horno de Fundición (Encendido)
+tile.furnace.blast.active.desc=Sirve para fundir, calentar o cocinar objetos y bloques. Es más rápido que un horno normal.
+
+tile.trommel.idle.name=Trómel
+tile.trommel.idle.desc=Una máquina que separa ciertos bloques en cosas más útiles.
+tile.trommel.active.name=Trómel (Encendido)
+tile.trommel.active.desc=Una máquina que separa ciertos bloques en cosas más útiles.
+
+tile.chest.planks.oak.name=Cofre de Madera
+tile.chest.planks.oak.desc=Un lugar para almacenar tus objetos.
+tile.chest.planks.oak.painted.name=Cofre de Madera Misterioso
+tile.chest.planks.oak.painted.desc=¡¿Cómo has conseguido esto?!
+tile.chest.planks.oak.painted.black.name=Cofre de Madera Negro
+tile.chest.planks.oak.painted.black.desc=Un lugar para almacenar tus objetos.
+tile.chest.planks.oak.painted.red.name=Cofre de Madera Rojo
+tile.chest.planks.oak.painted.red.desc=Un lugar para almacenar tus objetos.
+tile.chest.planks.oak.painted.green.name=Cofre de Madera Verde
+tile.chest.planks.oak.painted.green.desc=Un lugar para almacenar tus objetos.
+tile.chest.planks.oak.painted.brown.name=Cofre de Madera Café
+tile.chest.planks.oak.painted.brown.desc=Un lugar para almacenar tus objetos.
+tile.chest.planks.oak.painted.blue.name=Cofre de Madera Azul
+tile.chest.planks.oak.painted.blue.desc=Un lugar para almacenar tus objetos.
+tile.chest.planks.oak.painted.purple.name=Cofre de Madera Morado
+tile.chest.planks.oak.painted.purple.desc=Un lugar para almacenar tus objetos.
+tile.chest.planks.oak.painted.cyan.name=Cofre de Madera Cian
+tile.chest.planks.oak.painted.cyan.desc=Un lugar para almacenar tus objetos.
+tile.chest.planks.oak.painted.silver.name=Cofre de Madera Gris Claro
+tile.chest.planks.oak.painted.silver.desc=Un lugar para almacenar tus objetos.
+tile.chest.planks.oak.painted.gray.name=Cofre de Madera Gris
+tile.chest.planks.oak.painted.gray.desc=Un lugar para almacenar tus objetos.
+tile.chest.planks.oak.painted.pink.name=Cofre de Madera Rosa
+tile.chest.planks.oak.painted.pink.desc=Un lugar para almacenar tus objetos.
+tile.chest.planks.oak.painted.lime.name=Cofre de Madera Verde Lima
+tile.chest.planks.oak.painted.lime.desc=Un lugar para almacenar tus objetos.
+tile.chest.planks.oak.painted.yellow.name=Cofre de Madera Amarillo
+tile.chest.planks.oak.painted.yellow.desc=Un lugar para almacenar tus objetos.
+tile.chest.planks.oak.painted.lightblue.name=Cofre de Madera Azul Claro
+tile.chest.planks.oak.painted.lightblue.desc=Un lugar para almacenar tus objetos.
+tile.chest.planks.oak.painted.magenta.name=Cofre de Madera Magenta
+tile.chest.planks.oak.painted.magenta.desc=Un lugar para almacenar tus objetos.
+tile.chest.planks.oak.painted.orange.name=Cofre de Madera Naranja
+tile.chest.planks.oak.painted.orange.desc=Un lugar para almacenar tus objetos.
+tile.chest.planks.oak.painted.white.name=Cofre de Madera Blanco
+tile.chest.planks.oak.painted.white.desc=Un lugar para almacenar tus objetos.
+tile.chest.legacy.name=Cofre Antiguo
+
+tile.crops.wheat.name=Cultivos de Trigo
+tile.crops.wheat.desc=Trigo sacado del suelo.
+
+tile.farmland.dirt.name=Tierra Labrada
+tile.farmland.dirt.desc=Tierra perfecta para cultivar.
+
+tile.sign.post.planks.oak.name=Letrero de Madera
+tile.sign.post.planks.oak.desc=Un Letrero, ahí, mostrandole al mundo que no se quedará callado.
+tile.sign.wall.planks.oak.name=Cartel de Pared de Madera
+tile.sign.wall.planks.oak.desc=Un cartel, ahí, gritando al mundo lo que quiere decir. Esta vez en una pared.
+
+tile.layer.snow.name=Capa de Nieve
+tile.layer.snow.desc=Una capa plana de nieve.
+tile.layer.leaves.oak.name=Pila de Hojas
+tile.layer.leaves.oak.desc=Una pila de hojas.
+tile.layer.slate.name=Capa de Pizarra
+tile.layer.slate.desc=Una lámina plana de pizarra.
+
+tile.ice.name=Hielo
+tile.ice.desc=Agua que ha sido congelada, caminas más lento sobre ella.
+tile.ice.perma.name=Permafrost
+tile.ice.perma.desc=Hielo imbuido con la esencia de la piedra.
+
+tile.block.snow.name=Bloque de Nieve
+tile.block.snow.desc=Una gran cantidad de nieve compactada en un bloque.
+
+tile.cactus.name=Cactus
+tile.cactus.desc=Una planta con pinchos que crece en el desierto. ¡Cuidado con las púas!
+
+tile.block.clay.name=Bloque de Arcilla
+tile.block.clay.desc=Un bloque compuesto de arcilla.
+
+tile.sugarcane.name=Caña de Azúcar
+tile.sugarcane.desc=La caña es dulce, pero no tanto como tú.
+
+tile.jukebox.name=Tocadiscos
+tile.jukebox.desc=Permite colocar discos de música y hacerlos sonar. ¡Espero que tengas los éxitos del verano!
+
+tile.pumpkin.name=Calabaza
+tile.pumpkin.desc=Una calabaza naranja que crece en la naturaleza.
+tile.pumpkin.carved.idle.name=Calabaza Tallada
+tile.pumpkin.carved.idle.desc=Una calabaza con una cara espeluznante.
+tile.pumpkin.carved.active.name=Calabaza Iluminada
+tile.pumpkin.carved.active.desc=Una calabaza con una cara espeluznante, iluminada por una antorcha.
+
+tile.netherrack.name=Netherrack
+tile.netherrack.desc=Roca de color rojizo oscuro que arderá eternamente.
+tile.netherrack.igneous.name=Netherrack Ardiente
+tile.netherrack.igneous.desc=El calor extremo ha hecho que esta roca brille desde su interior.
+
+tile.soulsand.name=Arena de Almas
+tile.soulsand.desc=Una arena café y desagradablemente esponjosa, difícil de caminar sobre ella.
+
+tile.glowstone.name=Bloque de Piedra Luminosa
+tile.glowstone.desc=Emite constantemente una intensa luz amarillenta.
+
+tile.portal.nether.name=Portal al Nether
+tile.portal.nether.desc=Un portal al mismisimo infierno.
+tile.portal.paradise.name=Portal al Paraíso
+tile.portal.paradise.desc=Un portal al Paraíso.
+
+tile.cake.name=Pastel
+tile.cake.desc=Colócalo y compartelo con tus amigos, ¿No tienes amigos?, entonces es todo tuyo campeón.
+
+tile.lamp.idle.name=Lámpara
+tile.lamp.idle.desc=¡¿Cómo has conseguido esto?!
+tile.lamp.idle.black.name=Lámpara Negra
+tile.lamp.idle.black.desc=Una lámpara de Redstone que emite luz. Teñida de negro.
+tile.lamp.idle.red.name=Lámpara Roja
+tile.lamp.idle.red.desc=Una lámpara de Redstone que emite luz. Teñida de rojo.
+tile.lamp.idle.green.name=Lámpara Verde
+tile.lamp.idle.green.desc=Una lámpara de Redstone que emite luz. Teñida de verde.
+tile.lamp.idle.brown.name=Lámpara Café
+tile.lamp.idle.brown.desc=Una lámpara de Redstone que emite luz. Teñida de café.
+tile.lamp.idle.blue.name=Lámpara Azul
+tile.lamp.idle.blue.desc=Una lámpara de Redstone que emite luz. Teñida de azul.
+tile.lamp.idle.purple.name=Lámpara Morada
+tile.lamp.idle.purple.desc=Una lámpara de Redstone que emite luz. Teñida de morado.
+tile.lamp.idle.cyan.name=Lámpara Cian
+tile.lamp.idle.cyan.desc=Una lámpara de Redstone que emite luz. Teñida de cian.
+tile.lamp.idle.silver.name=Lámpara Gris Claro
+tile.lamp.idle.silver.desc=Una lámpara de Redstone que emite luz. Teñida de gris claro.
+tile.lamp.idle.gray.name=Lámpara Gris
+tile.lamp.idle.gray.desc=Una lámpara de Redstone que emite luz. Teñida de gris.
+tile.lamp.idle.pink.name=Lámpara Rosa
+tile.lamp.idle.pink.desc=Una lámpara de Redstone que emite luz. Teñida de rosa.
+tile.lamp.idle.lime.name=Lámpara Verde Lima
+tile.lamp.idle.lime.desc=Una lámpara de Redstone que emite luz. Teñida de verde lima.
+tile.lamp.idle.yellow.name=Lámpara Amarilla
+tile.lamp.idle.yellow.desc=Una lámpara de Redstone que emite luz. Teñida de amarillo.
+tile.lamp.idle.lightblue.name=Lámpara Azul Claro
+tile.lamp.idle.lightblue.desc=Una lámpara de Redstone que emite luz. Teñida de azul claro.
+tile.lamp.idle.magenta.name=Lámpara Magenta
+tile.lamp.idle.magenta.desc=Una lámpara de Redstone que emite luz. Teñida de magenta.
+tile.lamp.idle.orange.name=Lámpara Naranja
+tile.lamp.idle.orange.desc=Una lámpara de Redstone que emite luz. Teñida de naranja.
+tile.lamp.idle.white.name=Lámpara Blanca
+tile.lamp.idle.white.desc=Una lámpara de Redstone que emite luz. Teñida de blanco.
+
+tile.lamp.active.name=Lámpara Encendida
+tile.lamp.active.desc=¡¿Cómo has conseguido esto?!
+tile.lamp.active.black.name=Lámpara Negra Encendida
+tile.lamp.active.black.desc=Una lámpara de Redstone que emite luz. Tintada de negro.
+tile.lamp.active.red.name=Lámpara Roja Encendida
+tile.lamp.active.red.desc=Una lámpara de Redstone que emite luz. Tintada de rojo.
+tile.lamp.active.green.name=Lámpara Verde Encendida
+tile.lamp.active.green.desc=Una lámpara de Redstone que emite luz. Tintada de verde.
+tile.lamp.active.brown.name=Lámpara Café Encendida
+tile.lamp.active.brown.desc=Una lámpara de Redstone que emite luz. Tintada de café
+tile.lamp.active.blue.name=Lámpara Azul Encendida
+tile.lamp.active.blue.desc=Una lámpara de Redstone que emite luz. Tintada de azul.
+tile.lamp.active.purple.name=Lámpara Morada Encendida
+tile.lamp.active.purple.desc=Una lámpara de Redstone que emite luz. Tintada de morado.
+tile.lamp.active.cyan.name=Lámpara Cian Encendida
+tile.lamp.active.cyan.desc=Una lámpara de Redstone que emite luz. Tintada de cian.
+tile.lamp.active.silver.name=Lámpara Gris Claro Encendida
+tile.lamp.active.silver.desc=Una lámpara de Redstone que emite luz. Tintada de gris claro.
+tile.lamp.active.gray.name=Lámpara Gris Encendida
+tile.lamp.active.gray.desc=Una lámpara de Redstone que emite luz. Tintada de gris.
+tile.lamp.active.pink.name=Lámpara Rosa Encendida
+tile.lamp.active.pink.desc=Una lámpara de Redstone que emite luz. Tintada de rosa.
+tile.lamp.active.lime.name=Lámpara Verde Lima Encendida
+tile.lamp.active.lime.desc=Una lámpara de Redstone que emite luz. Tintada de verde lima.
+tile.lamp.active.yellow.name=Lámpara Amarilla Encendida
+tile.lamp.active.yellow.desc=Una lámpara de Redstone que emite luz. Tintada de amarillo.
+tile.lamp.active.lightblue.name=Lámpara Azul Claro Encendida
+tile.lamp.active.lightblue.desc=Una lámpara de Redstone que emite luz. Tintada de azul claro.
+tile.lamp.active.magenta.name=Lámpara Magenta Encendida
+tile.lamp.active.magenta.desc=Una lámpara de piedra roja que emite luz. Tintada de magenta.
+tile.lamp.active.orange.name=Lámpara Naranja Encendida
+tile.lamp.active.orange.desc=Una lámpara de Redstone que emite luz. Tintada de naranja.
+tile.lamp.active.white.name=Lámpara Blanca Encendida
+tile.lamp.active.white.desc=Una lámpara de Redstone que emite luz. Tintada de blanco.
+
+tile.stone.polished.name=Piedra Pulida
+tile.stone.polished.desc=Un bloque de piedra pulida.
+tile.granite.polished.name=Granito Pulido
+tile.granite.polished.desc=Un bloque de granito pulido.
+tile.limestone.polished.name=Piedra Caliza Pulida
+tile.limestone.polished.desc=Un bloque de piedra caliza pulida.
+tile.basalt.polished.name=Basalto Pulido
+tile.basalt.polished.desc=Un bloque de basalto pulido.
+tile.slate.polished.name=Pizarra Pulida
+tile.slate.polished.desc=Un bloque de pizarra pulida.
+
+tile.candle.wax.soul.name=Vela de Cera de Alma
+tile.candle.wax.soul.desc=Una vela café de cera que brilla con una luz antinatural.
+
+tile.basket.name=Canasta
+tile.basket.desc=Un recipiente heho de madera y trigo para guardar objetos.
+
+tile.overlay.pebbles.name=Guijarro
+tile.overlay.pebbles.desc=Perfecto para ser lanzado (Como una piedra en el zapato)
+
+tile.fence.chainlink.name=Valla de Malla Metálica
+tile.fence.chainlink.desc=Una valla hecha de mallas metálicas interconectadas. ¡Se puede escalar!
+
+tile.lantern.firefly.green.name=Lámpara de Luciérnagas Verdes
+tile.lantern.firefly.green.desc=Un frasco de vidrio que contiene un enjambre de luciérnagas verdes.
+tile.lantern.firefly.orange.name=Lámpara de Luciérnagas Naranjas
+tile.lantern.firefly.orange.desc=Un frasco de vidrio que contiene un enjambre de luciérnagas naranjas.
+tile.lantern.firefly.blue.name=Lámpara de Luciérnagas Azules
+tile.lantern.firefly.blue.desc=Un frasco de vidrio que contiene un enjambre de luciérnagas azules.
+tile.lantern.firefly.red.name=Lámpara de Luciérnagas Rojas
+tile.lantern.firefly.red.desc=Un frasco de vidrio que contiene un enjambre de luciérnagas rojas.
+
+tile.flag.name=Bandera
+tile.flag.desc=Una bandera para marcar tu territorio.
