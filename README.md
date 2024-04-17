@@ -3,9 +3,8 @@ Better Than Adventure en Español Latinoamericano
 Implementado en un 90%
 
  Creadores:
-* Vido25 (Revisión) 
-* ISAAC250MC (Editor LatAm)
-* MayorTom4815 (Modificador)
+* ISAAC250MC (Creador)
+* MayorTom4815 (Co-creador)
 
 Por hacer:
 * Corregir algunas faltas ortograficas.
