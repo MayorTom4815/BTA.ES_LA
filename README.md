@@ -1,6 +1,6 @@
 # BTA.ES_LA
 Better Than Adventure en Español Latinoamericano
-Implementado en un 80%
+Implementado en un 90%
 
  Creadores:
 * Vido25 (Revisión) 
@@ -8,5 +8,4 @@ Implementado en un 80%
 * MayorTom4815 (Modificador)
 
 Por hacer:
-* Modificar las HUD.
 * Corregir algunas faltas ortograficas.
