@@ -1,6 +1,6 @@
 gui.achievement.label.get=Logro Conseguido!
-gui.achievement.label.unlicensed.1=Better than Adventure! %s Cópia si licencia :(
-gui.achievement.label.unlicensed.2=(O conectado en otro lugar)
+gui.achievement.label.unlicensed.1=Better than Adventure! %s esta copia esta sin licencia
+gui.achievement.label.unlicensed.2=(O esta conectado en otro lugar)
 gui.achievement.label.unlicensed.3=Compre Minecraft en minecraft.net
 
 gui.achievements.button.done=Hecho
