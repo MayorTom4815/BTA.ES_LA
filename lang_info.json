@@ -2,9 +2,8 @@
     "id": "es_LA",
     "name": "Español",
     "region": "Latino-América",
-    "credits": [
-        "Vido25(revisión)" , 
-        "ISAAC250MC(Editor LatAm)", 
-        "MayorTom4815"
+    "credits": [ 
+        "ISAAC250MC(Creador)", 
+        "MayorTom4815(Co-creador)"
     ]
 }
