@@ -1,0 +1,271 @@
+gui.achievement.label.get=Logro Conseguido!
+gui.achievement.label.unlicensed.1=Better than Adventure! %s Cópia si licencia :(
+gui.achievement.label.unlicensed.2=(O conectado en otro lugar)
+gui.achievement.label.unlicensed.3=Compre Minecraft en minecraft.net
+
+gui.achievements.button.done=Hecho
+gui.achievements.label.title=Logros
+gui.achievements.label.taken=Realizado!
+gui.achievements.label.requires=Requiere '%1$s'
+
+gui.add_server.label.title=Agregar Servidor
+gui.add_server.button.save=Guardar
+gui.add_server.button.cancel=Cancelar
+gui.add_server.button.show_ip=Mostrar IP: %s
+gui.add_server.button.show_ip.on=SI
+gui.add_server.button.show_ip.off=NO
+gui.add_server.label.server_name=Nombre del servidor
+gui.add_server.label.ip_address=Direccion IP
+
+gui.bad_java_arch.label.title=Java 32-bit detectado!
+gui.bad_java_arch.label.body.1=Parece que usted está corriendo Better than Adventure en Java 32-bits.
+gui.bad_java_arch.label.body.2=Esto puede causar problemas en la memoria asignada, incluyendo picos de lag
+gui.bad_java_arch.label.body.3=y posiblemente cerrar el juego.
+gui.bad_java_arch.label.body.4=Considere descargar un JRE de 64 bits como Eclipse Temurin.
+gui.bad_java_arch.button.download=Descargar
+gui.bad_java_arch.button.continue=Continuar
+
+gui.conflict_warning.label.title=Conflito de mundo
+gui.conflict_warning.label.body.1=Minecraft detectó un conflicto con los datos guardados del mundo.
+gui.conflict_warning.label.body.2=Esto puede haber sido causado por dos copias del juego.
+gui.conflict_warning.label.body.3=acceder al mismo mundo.
+gui.conflict_warning.label.body.4=Para evitar la corrupción del mundo, y el cierre el juego.
+gui.conflict_warning.button.back=Volver al menu principal
+
+gui.connect_failed.label.title=Error al conectar con el servidor
+gui.connect_failed.button.back=Volver al menu principal
+
+gui.connect_to_ip.button.connect=Conectar
+gui.connect_to_ip.button.cancel=Cancelar
+gui.connect_to_ip.label.title=Conexion Directa
+gui.connect_to_ip.label.enter_ip=Ingrese la IP de un servidor para conectarse:
+
+gui.connecting.button.cancel=Cancelar
+gui.connecting.label.connecting=Conectando al servidor...
+gui.connecting.label.logging_in=Conectando...
+
+gui.controller_setup.button.back=Volver
+gui.controller_setup.label.help.1=Si no se detecta ningun control, intente nuevamente
+gui.controller_setup.label.help.2=iniciar el juego con el control conectado.
+gui.controller_setup.label.no_controller_selected=Ningun control seleccionado!
+
+gui.crafting.label.crafting=Fabricacion
+gui.crafting.label.inventory=Invetario
+
+gui.create_world.label.title=Crear Nuevo Mundo
+gui.create_world.label.world_name=Nombre del Mundo
+gui.create_world.label.seed=Semilla
+gui.create_world.button.create_new_world=Crear Nuevo Mundo
+gui.create_world.button.cancel=Cancelar
+gui.create_world.button.gamemode=Modo: %s
+gui.create_world.button.cheats=Comandos: %s
+gui.create_world.button.cheats.on=SI
+gui.create_world.button.cheats.off=NO
+gui.create_world.button.world_type=Tipo de Mundo: %s
+gui.create_world.label.new_world=Nuevo Mundo
+gui.create_world.label.select_world_type=Seleccionar Tipo de Mundo
+
+gui.dispenser.label.dispenser=Dispensador
+gui.dispenser.label.inventory=Inventario
+
+gui.downloading_terrain.label.title=Contruyendo Terreno
+
+gui.edit_flag.label.inventory=Inventario
+
+gui.edit_label.label.title=Editar Etiqueta:
+gui.edit_label.button.done=Aceptar
+
+gui.edit_sign.label.title=Editar Mensaje:
+gui.edit_sign.button.done=Aceptar
+
+gui.exception.label.exception_occurred=Ha occurrido un problema!
+gui.exception.label.fatal_error=Error fatal!
+gui.exception.label.startup_error=Minecraft no pudo iniciar!
+gui.exception.button.copy_error=Copiar error
+gui.exception.button.copy_error_and_quit=Copiar error y salir
+gui.exception.button.back=Volver al menu principal
+
+gui.furnace.label.furnace=Horno
+gui.furnace.blast.label.blast_furnace=Alto Horno
+gui.furnace.label.inventory=Inventario
+
+gui.game_over.label.title=¡Has Muerto!
+gui.game_over.label.score=Puntuacion: %s
+gui.game_over.button.respawn=Reaparecer
+gui.game_over.button.title_screen=Menu Principal
+
+gui.guidebook.label.title=Guia de fabricacion
+
+gui.ingame.label.now_playing=Escuchando: %s
+
+gui.ingame_menu.label.title=Menu del Juego
+gui.ingame_menu.label.score=Puntuacion: %s
+gui.ingame_menu.label.saving=Guardando...
+gui.ingame_menu.button.save_and_quit=Guardar y Volver al Menu Principal
+gui.ingame_menu.button.disconnect=Desconectar
+gui.ingame_menu.button.back_to_game=Volver al Juego
+gui.ingame_menu.button.options=Opciones
+gui.ingame_menu.button.photo_mode=Modo Fotografia
+gui.ingame_menu.button.achievements=Logros
+gui.ingame_menu.button.statistics=Estadísticas
+
+gui.inventory.label.crafting=Fabricacion
+gui.inventory.creative.label.search=Buscar
+
+gui.loading.label.generating=Construyendo terreno...
+gui.loading.label.loading=Cargando...
+gui.loading.label.entering=Entrando a %s...
+gui.loading.label.leaving=Saliendo de %s...
+
+gui.main_menu.label.splash.jonkadelic_birthday=Feliz aniversario, Jonkadelic!
+gui.main_menu.label.splash.maggandgeez_birthday=Feliz aniversario, MaggAndGeez!
+gui.main_menu.label.splash.minecraft_birthday=Feliz aniversario, Minecraft!
+gui.main_menu.label.splash.bta_birthday=Feliz aniversario, Better than Adventure!
+gui.main_menu.label.splash.xmas=Feliz Navidad!
+gui.main_menu.label.splash.halloween=Feliz Halloween!
+gui.main_menu.label.splash.new_year=Feliz Año Nuevo!
+gui.main_menu.label.disclaimer.1=Todos los derechos a Mojang Studios. Esto no es un producto oficial de Minecraft.
+gui.main_menu.label.disclaimer.2=No esta aprovado ni associado a Mojang Studios o Microsoft.
+gui.main_menu.label.downloading_resources=Descargando recursos: %s / %s
+gui.main_menu.button.singleplayer=Un Jugador
+gui.main_menu.button.multiplayer=Multijugador
+gui.main_menu.button.multiplayer.disabled=Multijugador (Todavia no esta listo!)
+gui.main_menu.button.texture_packs=Paquetes de Texturas
+gui.main_menu.button.options=Opciones
+gui.main_menu.button.quit_game=Salir del Juego
+gui.main_menu.button.discord=Discord
+gui.main_menu.button.minecraft_forum=Minecraft Forum
+gui.main_menu.button.youtube=YouTube
+
+gui.out_of_memory.label.title=Sin memoria!
+gui.out_of_memory.label.body.1=Minecraft se quedo sin memoria.
+gui.out_of_memory.label.body.2=Esto podría deberse a un error en el juego o a
+gui.out_of_memory.label.body.3=La máquina virtual de Java no ha asignado la memoria
+gui.out_of_memory.label.body.4=suficiente.
+gui.out_of_memory.label.body.5=Para previnir corrompimiento del mundo, el juego debe ser cerrado.
+gui.out_of_memory.label.body.6=Por favor reinicie el juego.
+
+gui.options.title=Opciones
+gui.options.button.done=Aceptar
+gui.options.label.select_page=Seleccionar Pagina
+gui.options.label.picking_keybinding=Presione una tecla u boton del mouse para definir a '%s'.
+
+gui.options.page.general.title=General
+gui.options.page.general.button.open_worlds_folder=Abrir Carpeta de Mundos
+gui.options.page.general.button.open_screenshots_folder=Abrir Carpeta de Capturas de pantalla
+gui.options.page.general.button.edit_hud=Editar HUD...
+gui.options.page.general.category.gameplay=¿Como se juega?
+gui.options.page.general.category.user_interface=Interface de Usuario
+gui.options.page.general.category.miscellaneous=Otros
+
+gui.options.page.audio.title=Áudio
+gui.options.page.audio.category.audio=Áudio
+gui.options.page.audio.category.debug=Depuracion
+
+gui.options.page.video.title=Vídeo
+gui.options.page.video.category.graphics=Gráficos
+gui.options.page.video.category.performance=Desempeño
+gui.options.page.video.category.post_processing=Póst-procesado
+gui.options.page.video.category.visuals=Visuales
+
+gui.options.page.controls.title=Teclas
+gui.options.page.controls.button.controller_setup=Configuraciones de Control...
+gui.options.page.controls.button.key.unbound=No definido
+gui.options.page.controls.category.mouse=Mouse
+gui.options.page.controls.category.keyboard=Teclado
+gui.options.page.controls.category.controller=Control
+gui.options.page.controls.category.interactions=Interacciones
+gui.options.page.controls.category.movement=Movimiento
+gui.options.page.controls.category.user_interface=Interfaz de Usuario
+gui.options.page.controls.category.hotbar=Barra de Acceso Rapido
+gui.options.page.controls.category.view=Ver
+gui.options.page.controls.category.miscellaneous=Otros
+
+gui.options.page.texture_packs.title=Paquetes de Texturas
+gui.options.page.texture_packs.category.textures=Texturas
+gui.options.page.texture_packs.category.texture_packs=Paquetes de Texturas
+gui.options.page.texture_packs.button.open_folder=Abrir Carpeta
+gui.options.page.texture_packs.label.no_packs=Ningun paquete de texturas encontrado...
+gui.options.page.texture_packs.label.outdated_pack.1=Paquete desactualizado!
+gui.options.page.texture_packs.label.outdated_pack.2=Este paquete no esta hecho para esta version de BTA!
+
+gui.options.page.language_packs.title=Paquetes de Idiomas
+gui.options.page.language_packs.category.language_packs=Paquetes de Idiomas
+gui.options.page.language_packs.button.open_folder=Abrir Carpeta
+
+gui.options.page.search.title=Buscar
+
+gui.photo_mode.label.mouse_hint=Haga clic y arrastre para mover y rotar.
+gui.photo_mode.button.take_screenshot=Tomar Captura
+gui.photo_mode.button.center_camera=Centrar Camara
+gui.photo_mode.button.show_player=Mostrar Jugador: %s
+gui.photo_mode.button.show_player.on=SI
+gui.photo_mode.button.show_player.off=NO
+gui.photo_mode.button.time_of_day=Hora del Dia: %s
+gui.photo_mode.button.time_of_day.default=Por defecto
+gui.photo_mode.button.season=Estacion: %s
+gui.photo_mode.button.season.default=Por defecto
+gui.photo_mode.button.fog=Neblina: %s
+gui.photo_mode.button.tilt=Angulo: %s
+gui.photo_mode.button.tilt.default=Por defecto
+gui.photo_mode.button.shader=Filtro: %s
+gui.photo_mode.button.shader.none=Ninguno
+gui.photo_mode.button.intensity=Intensidad: %s
+
+gui.select_server.label.title=Selecionar Servidor
+gui.select_server.label.delete_title=Borrar Servidor
+gui.select_server.label.delete_confirm.1=Estas seguro de borrar este servidor?
+gui.select_server.label.delete_confirm.2='%s' será borrado para sempre! (Eso es bastante tiempo!)
+gui.select_server.label.edit.1=Editar Servidor
+gui.select_server.label.edit.2=Nombre del Servidor
+gui.select_server.label.edit.3=Direccion del Servidor
+gui.select_server.label.down=Desconectado
+gui.select_server.label.outdated=Desactualizado
+gui.select_server.button.join_server=Entrar al Servidor
+gui.select_server.button.direct_connect=Conexion Directa
+gui.select_server.button.add_server=Agregar Servidor
+gui.select_server.button.edit=Editar
+gui.select_server.button.delete=Borrar
+gui.select_server.button.refresh=Actualizar
+gui.select_server.button.cancel=Cancelar
+gui.select_server.button.done=Hecho
+gui.select_server.button.show_ip=Mostrar IP: %s
+gui.select_server.button.show_ip.on=SI
+gui.select_server.button.show_ip.off=NO
+
+gui.select_world.label.title=Selecionar Mundo
+gui.select_world.label.world=Mundo %s
+gui.select_world.label.must_be_converted=Debe ser convertido!
+gui.select_world.label.outdated=Desactualizado - no puede ser cargado (Todavia!)
+gui.select_world.label.delete_title=Borrar Mundo
+gui.select_world.label.delete_confirm.1=Estas seguro de borrar este mundo?
+gui.select_world.label.delete_confirm.2='%s' será borrado para sempre! (Eso es bastante tiempo!)
+gui.select_world.label.rename_title=Renombrar Mundo
+gui.select_world.label.world_name=Nombre del Mundo
+gui.select_world.label.cheats=Comandos
+gui.select_world.label.unknown=DESCONOCIDO
+gui.select_world.button.play_selected_world=Jugar Mundo Seleccionado
+gui.select_world.button.rename=Renombrar
+gui.select_world.button.create_new_world=Crear Nuevo Mundo
+gui.select_world.button.delete=Borrar
+gui.select_world.button.cancel=Cancelar
+
+gui.sleeping.leave_bed=Levantarte de la Cama
+gui.sleeping.multiplayer.leave_bed=Levantarte de la Cama
+
+gui.statistics.label.title=Estadísticas
+gui.statistics.label.times_used=Veces Usado
+gui.statistics.label.times_mined=Veces Minado
+gui.statistics.label.times_depleted=Veces Destruído
+gui.statistics.label.times_crafted=Veces Fabricado
+gui.statistics.button.done=Hecho
+gui.statistics.button.general=General
+gui.statistics.button.blocks=Bloques
+gui.statistics.button.items=Objetos
+
+gui.trommel.label.trommel=tromel
+gui.trommel.label.inventory=Inventario
+
+gui.hud_designer.button.done=Hecho
+
+gui.pick_monster.label.title=Seleccionar Criatura

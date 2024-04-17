@@ -39,10 +39,10 @@ guidebook.section.mob.zombie.name=Zombi
 guidebook.section.mob.zombie.desc=El enemigo mas comun en la noche y en la obscuridad.\nGolpea muy fuerte, asi que ¡ten cuidado!.
 
 guidebook.section.mob.creeper.name=Creeper
-guidebook.section.mob.creeper.desc=Es la criatura mas infame y explota cuando esta cerca tuyo.\nAparecen en la noche y obscuridad.
+guidebook.section.mob.creeper.desc=Es la criatura mas infame y explota cuando esta cerca tuyo.\nAparece en la noche y obscuridad.
 
 guidebook.section.mob.skeleton.name=Esqueleto
-guidebook.section.mob.skeleton.desc=Skeletons provide ranged support for other creatures, and can be dangerous - finding cover is recommended. They appear at night and in darkness.
+guidebook.section.mob.skeleton.desc=Provee de ataque en rango disparando flechas, encontrar covertura es recomendado.\nAparece en la noche y obscuridad.
 
 guidebook.section.mob.spider.name=Araña
 guidebook.section.mob.spider.desc=Grande, rapida, y sabe trepar paredes.\nEs uno de los enemigos mas comunes que aparecen en la noche y en la obscuridad.
