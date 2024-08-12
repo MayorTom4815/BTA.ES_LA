@@ -438,6 +438,10 @@ tile.log.eucalyptus.name=Tronco de Eucalipto
 tile.log.eucalyptus.desc=Un tronco de un árbol de eucalipto.
 tile.log.oak.mossy.name=Tronco de Roble Musgoso
 tile.log.oak.mossy.desc=Un tronco de un árbol de roble cubierto de musgo.
+tile.log.thorn.name=Tronco de Espinas
+tile.log.thorn.desc=Tronco de un árbol de espinas.
+tile.log.palm.name=Tronco de palmera
+tile.log.palm.desc=Tronco de una palmera
 
 tile.leaves.oak.name=Hojas de Roble
 tile.leaves.oak.desc=Hojas de un árbol de roble.
@@ -455,6 +459,12 @@ tile.leaves.shrub.name=Hojas de Arbusto
 tile.leaves.shrub.desc=Hojas de un arbusto.
 tile.leaves.cherry.flowering.name=Hojas de Cerezo en Flor
 tile.leaves.cherry.flowering.desc=Hojas de un árbol de cerezo en pleno florecimiento.
+tile.leaves.cacao.name=Hojas de Cacao
+tile.leaves.cacao.desc=Hojas de un árbol de cacao (que bien huele).
+tile.leaves.thorn.name=Hojas de Espinas
+tile.leaves.thorn.desc=Hojas de un árbol de espinas (cuidado donde la agarras).
+tile.leaves.palm.name=Hojas de Palmera
+tile.leaves.palm.desc=Hojas de una palmera (unas vacaciones inolvidables).
 
 tile.sapling.oak.name=Brote de Roble
 tile.sapling.oak.desc=Planta para cultivar un árbol de roble.
@@ -470,6 +480,12 @@ tile.sapling.oak.retro.name=Brote de Roble Retro
 tile.sapling.oak.retro.desc=Planta para cultivar un árbol de antaño.
 tile.sapling.shrub.name=Brote de Arbusto
 tile.sapling.shrub.desc=Planta para cultivar un arbusto.
+tile.sapling.cacao.name=Brote de Cacao
+tile.sapling.cacao.desc=Plantalo para cultivar un árbol de cacao
+tile.sapling.thorn.name=Brote de Espinas
+tile.sapling.thorn.desc=Plantalo para cultivar un árbol de espinas
+tile.sapling.palm.name=Brote de Palmera
+tile.sapling.palm.desc=Plantalo para cultivar una palmera
 
 tile.tallgrass.name=Césped Alto
 tile.tallgrass.desc=Un césped que parece haber dado un estirón.
@@ -486,6 +502,14 @@ tile.flower.yellow.name=Diente de León
 tile.flower.yellow.desc=Una hermosa flor amarilla.
 tile.flower.red.name=Rosa
 tile.flower.red.desc=Una hermosa flor roja.
+tile.flower.purple.name=Calluna
+tile.flower.purple.desc=Ramas con petalos morados. Se dice que atrae la suerte
+tile.flower.lightblue.name=Jacinto
+tile.flower.lightblue.desc=Una flor color azul, me da tristeza de solo verla.
+tile.flower.pink.name=Orquidia
+tile.flower.pink.desc=Una hermosa flor color rosa.
+tile.flower.orange.name=Cempasúchil
+tile.flower.orange.desc=Una hermosa flor color anaranjada.
 
 tile.mushroom.red.name=Champión Rojo
 tile.mushroom.red.desc=Un champiñón rojo realmente delicioso. Ideal para una sopita.
@@ -657,6 +681,8 @@ tile.door.iron.top.desc=Pobrecillo, no puede sentir sus piernas.
 
 tile.mesh.name=Bloque de Malla
 tile.mesh.desc=Permite el paso de objetos, pero nada más. No te hagas ilusiones.
+tile.mesh.gold.name=Bloque de Malla Dorada
+tile.mesh.gold.desc=Permite el paso de ciertos objetos, no mas, no              menos.
 
 tile.bed.name=Cama
 tile.bed.desc=Tomate un descanso en la noche
@@ -666,6 +692,10 @@ tile.cobweb.desc=Una Secresión de una araña... No me quiero imaginar que sea o
 
 tile.fire.name=Fuego
 tile.fire.desc=¡Aaaaahh! ¡Me quemo!
+tile.brazier.inactive.name=Brazero
+tile.brazier.inactive.desc=Mantente fuera del fuego.
+tile.brazier.active.name=Brazero (Encendido)
+tile.brazier.active.desc=Mantente fuera del fuego.
 
 tile.mobspawner.name=Generador de Criaturas
 tile.mobspawner.desc=Una prisión llena de pesadillas. Criaturas apareceran alrededor del generador.
@@ -881,8 +911,10 @@ tile.basket.desc=Un recipiente heho de madera y trigo para guardar objetos.
 tile.overlay.pebbles.name=Guijarro
 tile.overlay.pebbles.desc=Perfecto para ser lanzado (Como una piedra en el zapato)
 
-tile.fence.chainlink.name=Valla de Malla Metálica
-tile.fence.chainlink.desc=Una valla hecha de mallas metálicas interconectadas. ¡Se puede escalar!
+tile.fence.chainlink.name=Valla de Metálica
+tile.fence.chainlink.desc=Una valla hecha de metal. ¡Se puede escalar!
+tile.fence.paper_wall.name= Valla de Papel
+tile.fence.paper_wall.desc=Una valla hecha de delicado papel. ¡Con cuidado es fragil!
 
 tile.lantern.firefly.green.name=Lámpara de Luciérnagas Verdes
 tile.lantern.firefly.green.desc=Un frasco de vidrio que contiene un enjambre de luciérnagas verdes.

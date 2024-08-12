@@ -15,21 +15,21 @@ gui.add_server.button.show_ip=Mostrar IP: %s
 gui.add_server.button.show_ip.on=SI
 gui.add_server.button.show_ip.off=NO
 gui.add_server.label.server_name=Nombre del servidor
-gui.add_server.label.ip_address=Direccion IP
+gui.add_server.label.ip_address=Dirección IP
 
 gui.bad_java_arch.label.title=Java 32-bit detectado!
-gui.bad_java_arch.label.body.1=Parece que usted está corriendo Better than Adventure en Java 32-bits.
+gui.bad_java_arch.label.body.1=Parece que usted está corriendo Better than Adventure en Java de 32-bits.
 gui.bad_java_arch.label.body.2=Esto puede causar problemas en la memoria asignada, incluyendo picos de lag
-gui.bad_java_arch.label.body.3=y posiblemente cerrar el juego.
+gui.bad_java_arch.label.body.3=y posiblemente cerrar el juego inesperadamente.
 gui.bad_java_arch.label.body.4=Considere descargar un JRE de 64-bits como Eclipse o Temurin.
 gui.bad_java_arch.button.download=Descargar
 gui.bad_java_arch.button.continue=Continuar
 
-gui.conflict_warning.label.title=Conflito entre mundos
+gui.conflict_warning.label.title=Conflicto entre mundos
 gui.conflict_warning.label.body.1=Minecraft detectó un conflicto con los datos guardados del mundo.
 gui.conflict_warning.label.body.2=Esto puede haber sido causado por dos copias del juego.
-gui.conflict_warning.label.body.3=acceder al mismo mundo.
-gui.conflict_warning.label.body.4=Para evitar la corrupción del mundo, cierre el juego.
+gui.conflict_warning.label.body.3=Accede al mismo mundo.
+gui.conflict_warning.label.body.4=Para evitar la corrupción del mundo o cierre el juego.
 gui.conflict_warning.button.back=Volver al menu principal
 
 gui.connect_failed.label.title=Error al conectar con el servidor
@@ -37,7 +37,7 @@ gui.connect_failed.button.back=Volver al menu principal
 
 gui.connect_to_ip.button.connect=Conectar
 gui.connect_to_ip.button.cancel=Cancelar
-gui.connect_to_ip.label.title=Conexion Directa
+gui.connect_to_ip.label.title=Conexión Directa
 gui.connect_to_ip.label.enter_ip=Ingrese la IP de un servidor para conectarse:
 
 gui.connecting.button.cancel=Cancelar
@@ -45,12 +45,12 @@ gui.connecting.label.connecting=Conectando al servidor...
 gui.connecting.label.logging_in=Conectando...
 
 gui.controller_setup.button.back=Volver
-gui.controller_setup.label.help.1=Si no se detecta ningun control, intente conectar el dispositivo nuevamente
+gui.controller_setup.label.help.1=Si no se detecta ningún control, intente conectar el dispositivo nuevamente.
 gui.controller_setup.label.help.2=iniciar el juego con el control conectado.
-gui.controller_setup.label.no_controller_selected=Ningun control seleccionado!
+gui.controller_setup.label.no_controller_selected=Ningún control seleccionado!
 
-gui.crafting.label.crafting=Fabricacion
-gui.crafting.label.inventory=Invetario
+gui.crafting.label.crafting=Fabricación
+gui.crafting.label.inventory=Inventario
 
 gui.create_world.label.title=Crear Nuevo Mundo
 gui.create_world.label.world_name=Nombre del Mundo
@@ -68,7 +68,7 @@ gui.create_world.label.select_world_type=Seleccionar Tipo de Mundo
 gui.dispenser.label.dispenser=Dispensador
 gui.dispenser.label.inventory=Inventario
 
-gui.downloading_terrain.label.title=Contruyendo Terreno
+gui.downloading_terrain.label.title=Construyendo Terreno
 
 gui.edit_flag.label.inventory=Inventario
 
@@ -78,7 +78,7 @@ gui.edit_label.button.done=Aceptar
 gui.edit_sign.label.title=Editar Mensaje:
 gui.edit_sign.button.done=Aceptar
 
-gui.exception.label.exception_occurred=Ha occurrido un problema!
+gui.exception.label.exception_occurred=Ha ocurrido un problema!
 gui.exception.label.fatal_error=Error fatal!
 gui.exception.label.startup_error=Minecraft no pudo iniciar!
 gui.exception.button.copy_error=Copiar error
@@ -90,7 +90,7 @@ gui.furnace.blast.label.blast_furnace=Alto Horno
 gui.furnace.label.inventory=Inventario
 
 gui.game_over.label.title=¡Has Muerto!
-gui.game_over.label.score=Puntuacion: %s
+gui.game_over.label.score=Puntuación: %s
 gui.game_over.button.respawn=Reaparecer
 gui.game_over.button.title_screen=Menu Principal
 
@@ -198,7 +198,7 @@ gui.options.page.search.title=Buscar
 gui.photo_mode.label.mouse_hint=Haga clic y arrastre para mover y rotar.
 gui.photo_mode.button.take_screenshot=Tomar Captura
 gui.photo_mode.button.center_camera=Centrar Camara
-gui.photo_mode.button.show_player=Mostrar Jugador: %s
+gui.photo_mode.button.show_player=Mostrar Jugador   : %s
 gui.photo_mode.button.show_player.on=SI
 gui.photo_mode.button.show_player.off=NO
 gui.photo_mode.button.time_of_day=Hora del Dia: %s
@@ -263,9 +263,50 @@ gui.statistics.button.general=General
 gui.statistics.button.blocks=Bloques
 gui.statistics.button.items=Objetos
 
-gui.trommel.label.trommel=tromel
+gui.trommel.label.trommel=Trómel
 gui.trommel.label.inventory=Inventario
 
 gui.hud_designer.button.done=Hecho
 
-gui.pick_monster.label.title=Seleccionar Criatura
+gui.pick_monster.label.title=Seleccionar un Mob para Aparecer
+
+gui.model_viewer.slider.variant=Variante: %d
+gui.model_viewer.slider.meta=Meta: %d
+gui.model_viewer.button.tickprogress=Run Tick: %s
+gui.model_viewer.button.rotate=Rotar Etiquetas: %s
+gui.model_viewer.button.reload_textures=Recargar Texturas
+
+gui.model_viewer.button.category=Categoria
+
+model.category.entity.info=Entidad: %s
+model.category.entity.name=Entidad
+model.category.entity.tnt.slider.fuse=Fuse: %d
+model.category.entity.sheep.slider.color=Color: %s
+model.category.entity.painting.slider.motif=Painting: %s
+model.category.entity.fireflycluster.slider.size=Size: %d
+model.category.entity.fireflycluster.button.cycle=Color: %s
+model.category.entity.item.button.cycle=Cycle Item
+model.category.entity.item.slider.size=Size: %d
+model.category.entity.sand.button.cycle=Cycle Block
+model.category.entity.creeper.button.charged=Charged: %s
+model.category.entity.armored_zombie.button.sword=Sword: %s
+model.category.entity.wolf.button.tamed=Tamed: %s
+model.category.entity.wolf.button.sitting=Sitting: %s
+model.category.entity.wolf.button.angry=Angry: %s
+model.category.entity.wolf.button.armor=Armor: %s
+model.category.entity.wolf.button.item=Item: %s
+model.category.entity.boat.button.flag=Flag: %s
+model.category.entity.boat.button.wind=Wind: %s degrees
+model.category.entity.slime.slider.size=Slime: %s
+model.category.entity.minecart.button.cycle=Cycle Minecart
+
+model.category.block.name=Bloque
+model.category.block.info=Bloque: %s
+model.category.block.basket.slider.fill=Llenar: %s
+model.category.block.spawner.button.id=Mob: %s
+
+model.category.particle.name=Particula
+model.category.particle.info=Particula: %s
+model.category.particle.radius.slider=Radio: %s
+model.category.particle.note.slider=Nota: %s
+model.category.particle.block.side=Lado: %s
