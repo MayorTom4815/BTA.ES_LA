@@ -2,9 +2,9 @@ guidebook.section.cover=¡Mejor que una aventura!
 guidebook.section.index=Indice
 guidebook.section.mob=Criaturas
 guidebook.section.crafting=Fabricaciones
-guidebook.section.furnace=Fundicion
-guidebook.section.blast_furnace=Fundicion Avanzada
-guidebook.section.trommel=Reciclar
+guidebook.section.furnace=Horno
+guidebook.section.blast_furnace=Alto Horno
+guidebook.section.trommel=Trómel
 guidebook.section.search=Buscar
 
 guidebook.section.mob.health=Vida:
@@ -39,10 +39,10 @@ guidebook.section.mob.zombie.name=Zombi
 guidebook.section.mob.zombie.desc=El enemigo mas comun en la noche y en la obscuridad.\nGolpea muy fuerte, asi que ¡ten cuidado!.
 
 guidebook.section.mob.creeper.name=Creeper
-guidebook.section.mob.creeper.desc=Es la criatura mas infame y explota cuando esta cerca tuyo.\nAparece en la noche y obscuridad.
+guidebook.section.mob.creeper.desc=Es la criatura mas infame que explota cuando esta cerca tuyo.\nAparece en la noche y obscuridad.
 
 guidebook.section.mob.skeleton.name=Esqueleto
-guidebook.section.mob.skeleton.desc=Provee de ataque en rango disparando flechas, encontrar covertura es recomendado.\nAparece en la noche y obscuridad.
+guidebook.section.mob.skeleton.desc=Ataca en rango disparando flechas, encontrar covertura es recomendado.\nAparece en la noche y obscuridad.
 
 guidebook.section.mob.spider.name=Araña
 guidebook.section.mob.spider.desc=Grande, rapida, y sabe trepar paredes.\nEs uno de los enemigos mas comunes que aparecen en la noche y en la obscuridad.

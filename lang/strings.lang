@@ -68,7 +68,7 @@ addServer.serverName=Nombre del Servidor
 addServer.ipAddress=Dirección IP
 addServer.save=Guardar
 
-dimension.overworld.name=el Overworld
+dimension.overworld.name=Superficie
 dimension.hell.name=Nether
 dimension.paradise.name=Paraíso
 
@@ -93,11 +93,14 @@ weather.overworld.fog.name=Nublado
 
 gamemode.survival.name=Supervivencia
 gamemode.creative.name=Creativo
+gamemode.hardcore.name=Hardcore
+gamemode.adventure.name=Aventura
+gamemode.spectator.name=Espectador
 
 worldType.overworld.extended.name=Por Defecto Extendido
-worldType.overworld.extended.desc=La experiencia por defecto para \nBTA, con biomas más grandes y mundos \n veces más altos.
+worldType.overworld.extended.desc=La experiencia por defecto para BTA,\n con biomas más grandes\n y mundos más altos.
 worldType.overworld.default.name=Por Defecto
-worldType.overworld.default.desc=Una experiencia más vanilla.
+worldType.overworld.default.desc=Una experiencia más simple.
 worldType.nether.default.name=Por Defecto
 worldType.paradise.default.name=Por Defecto
 worldType.flat.name=Plano
@@ -126,6 +129,8 @@ worldType.overworld.inland.name=Sin Océano
 worldType.overworld.inland.desc=Similar al "Por Defecto Extendido",\npero sin océanos.
 worldType.overworld.classic.name=Clásico
 worldType.overworld.classic.desc=Generación de terrano similar a\n"Clásico", pero infinito.
+worldType.overworld.indev.name=Indev
+worldType.overworld.indev.desc=Generacion terreno similar al Indev,\n pero infinita.
 
 multiplayer.title=Conectar a dirección IP
 multiplayer.connect=Conectar
@@ -137,14 +142,14 @@ multiplayer.downloadingTerrain=Descargando Terreno
 
 multiplayer.stopSleeping=Salir de la Cama
 
-demo.day.1=Esta demo durará cinco días in-game, haz lo mejor que puedas!
+demo.day.1=Esta demo durará cinco días en el juego, haz lo mejor que puedas!
 demo.day.2=Día Dos
 demo.day.3=Día Tres
 demo.day.4=Día Cuatro
 demo.day.5=Día Cinco
 demo.day.warning=¡Tu tiempo está a punto de agotarse!
 demo.day.6=Has pasado el día cinco, presiona el F2 para hacer una captura de pantalla y capturar este momento para siempre.
-demo.reminder=El tiempo de demo ha acabado. ¡Compra el juego para continuar el mundo o empieza uno nuevo!
+demo.reminder=El tiempo de la demo ha acabado. ¡Compra el juego para continuar el mundo o empieza uno nuevo!
 demo.help.movement=Usa %1$s, %2$s, %3$s, %4$s y el ratón para mirar y moverte alrededor.
 demo.help.jump=Salta al presionar %1$s
 demo.help.inventory=Presiona %1$s para abrir tu inventario
@@ -170,6 +175,14 @@ damagetype.projectile=Proyectil
 damagetype.blast=Explosión
 damagetype.fall=Caída
 damagetype.fire=Fuego
+
+progress.tip=Consejo Pro: %s
+
+bed.occupied=Esta cama está ocupada
+bed.noSleep=Solo puedes dormir durante la noche o tormetas
+bed.setSpawn=Punto de reaparicion establesido
+bed.notValid=Tu cama no ha sido encontrada o ha sido destruida
+bed.noAllowSleeping=Dormir está desativado.
 
 controls.title=Controles
 keybinds.title=Teclas
@@ -228,3 +241,7 @@ sign.image.brb=BRB
 flag.full=Tienes demasiadas banderas en este mapa.
 flag.overwrite=No se puede sobreescribir el patrón actual.
 flag.copied=Patrón de bandera copiado.
+
+wand.wrongmode=¡Debes estar en modo creativo para usar este item!
+
+save.data.missing.data=¡Faltan Metadados del Nível!

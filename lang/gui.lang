@@ -21,15 +21,15 @@ gui.bad_java_arch.label.title=Java 32-bit detectado!
 gui.bad_java_arch.label.body.1=Parece que usted está corriendo Better than Adventure en Java 32-bits.
 gui.bad_java_arch.label.body.2=Esto puede causar problemas en la memoria asignada, incluyendo picos de lag
 gui.bad_java_arch.label.body.3=y posiblemente cerrar el juego.
-gui.bad_java_arch.label.body.4=Considere descargar un JRE de 64 bits como Eclipse Temurin.
+gui.bad_java_arch.label.body.4=Considere descargar un JRE de 64-bits como Eclipse o Temurin.
 gui.bad_java_arch.button.download=Descargar
 gui.bad_java_arch.button.continue=Continuar
 
-gui.conflict_warning.label.title=Conflito de mundo
+gui.conflict_warning.label.title=Conflito entre mundos
 gui.conflict_warning.label.body.1=Minecraft detectó un conflicto con los datos guardados del mundo.
 gui.conflict_warning.label.body.2=Esto puede haber sido causado por dos copias del juego.
 gui.conflict_warning.label.body.3=acceder al mismo mundo.
-gui.conflict_warning.label.body.4=Para evitar la corrupción del mundo, y el cierre el juego.
+gui.conflict_warning.label.body.4=Para evitar la corrupción del mundo, cierre el juego.
 gui.conflict_warning.button.back=Volver al menu principal
 
 gui.connect_failed.label.title=Error al conectar con el servidor
@@ -45,7 +45,7 @@ gui.connecting.label.connecting=Conectando al servidor...
 gui.connecting.label.logging_in=Conectando...
 
 gui.controller_setup.button.back=Volver
-gui.controller_setup.label.help.1=Si no se detecta ningun control, intente nuevamente
+gui.controller_setup.label.help.1=Si no se detecta ningun control, intente conectar el dispositivo nuevamente
 gui.controller_setup.label.help.2=iniciar el juego con el control conectado.
 gui.controller_setup.label.no_controller_selected=Ningun control seleccionado!
 
@@ -58,7 +58,7 @@ gui.create_world.label.seed=Semilla
 gui.create_world.button.create_new_world=Crear Nuevo Mundo
 gui.create_world.button.cancel=Cancelar
 gui.create_world.button.gamemode=Modo: %s
-gui.create_world.button.cheats=Comandos: %s
+gui.create_world.button.cheats=Trucos: %s
 gui.create_world.button.cheats.on=SI
 gui.create_world.button.cheats.off=NO
 gui.create_world.button.world_type=Tipo de Mundo: %s
